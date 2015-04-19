@@ -15,32 +15,33 @@ public class ModifySubscriber extends ModifySubscriberRequest{
     private Subscriber s;
 
     public ModifySubscriber(int subId, String street, String city, String state, String zip,
-                         String name, String email, String phone, String creditCard) {
-        super(subId, street, city, state, zip, name, email, phone, creditCard);
+                         String name, String email, String phone) {
+        super(subId, street, city, state, zip, name, email, phone);
     }
 
     @Override
     public GenericResponse modifyAccount(Collection<Subscriber> subs) {
         a = new Address(this.street, this.city, this.state, this.zip);
-        s = new Subscriber(this.name, this.email, this.phone, a, this.facebook, this.twitter, this.creditCard);
+        s = new Subscriber(this.name, this.email, this.phone, a, this.facebook, this.twitter);
 
         if (addressInBannedState()) {
             return new GenericResponse(false, "Cannot ship to this state");
         }
 
-        Subscriber dataBaseSub = getAccount(subs, s);
+        Subscriber dataBaseSub = getAccount(subs, this.subId);
 
         if (dataBaseSub == null) {
             return new GenericResponse(false, "User does not have an account");
-        } else {
-            dataBaseSub.updateInfo(name, email, phone, a, creditCard);
+        }
+        else {
+            dataBaseSub.updateInfo(name, email, phone, a);
             return new GenericResponse(true, "Congratulations, your account has been updated");
         }
     }
 
     @Override
     public GenericResponse cancelSubscription(Collection<Subscriber> subs) {
-        Subscriber dataBaseSub = getAccount(subs, s);
+        Subscriber dataBaseSub = getAccount(subs, this.subId);
         if (dataBaseSub == null) {
             return new GenericResponse(false, "User does not have an account");
         } else {
@@ -49,9 +50,9 @@ public class ModifySubscriber extends ModifySubscriberRequest{
         }
     }
 
-    private Subscriber getAccount(Collection<Subscriber> subs, Subscriber sub) {
+    private Subscriber getAccount(Collection<Subscriber> subs, int subId) {
         for(Subscriber s:subs){
-            if(s.equals(sub)){
+            if(s.getID() == subId){
                 return s;
             }
         }

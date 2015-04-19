@@ -27,7 +27,7 @@ public class AddDeliveryNote extends AddDeliveryNoteRequest {
 
     private Delivery getDelivery(Collection<Delivery> dels, int delId) {
         for(Delivery del:dels){
-            if(del.getId() == delId){
+            if(del.getDeliveryId() == delId){
                 return del;
             }
         }

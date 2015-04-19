@@ -18,4 +18,16 @@ public class AddSubscriberResponse {
 	public void printResponse() {
 		System.out.println("ID: " + this.ID + "\tStatus: " + this.status + "\tDescription: " + this.failureDescription);
 	}
+
+	public int getID() {
+		return ID;
+	}
+
+	public boolean isStatus() {
+		return status;
+	}
+
+	public String getFailureDescription() {
+		return failureDescription;
+	}
 }

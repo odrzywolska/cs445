@@ -8,9 +8,9 @@ import java.util.Collection;
 // Boundary class for a request to add a subscriber
 public abstract class AddSubscriberRequest {
 	protected String street, city, state, zip;
-	protected String name, email, phone, twitter, facebook, creditCard;
+	protected String name, email, phone, twitter, facebook;
 	
-	public AddSubscriberRequest(String street, String c, String state, String z, String n, String e, String p, String tw, String fb, String cc) {
+	public AddSubscriberRequest(String street, String c, String state, String z, String n, String e, String p, String tw, String fb) {
 		this.street = street;
 		this.city = c;
 		this.state = state;
@@ -20,7 +20,6 @@ public abstract class AddSubscriberRequest {
 		this.phone = p;
 		this.twitter = tw;
 		this.facebook = fb;
-		this.creditCard = cc;
 	}
 	
 	public abstract AddSubscriberResponse addAccount(Collection<Subscriber> subs);

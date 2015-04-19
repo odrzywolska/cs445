@@ -15,4 +15,12 @@ public class GenericResponse {
     public void printResponse() {
         System.out.println("Status: " + this.status + "\tDescription: " + this.failureDescription);
     }
+
+    public boolean isStatus() {
+        return status;
+    }
+
+    public String getFailureDescription() {
+        return failureDescription;
+    }
 }

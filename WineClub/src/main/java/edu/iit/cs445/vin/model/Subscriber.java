@@ -13,7 +13,6 @@ public class Subscriber {
     private int ID;
 	private List<Delivery> deliveryHistory = new ArrayList<Delivery>();
     private Delivery delivery;
-	private Payment payment;
 	private boolean active;
 
     public Subscriber() {
@@ -23,22 +22,20 @@ public class Subscriber {
     	this.address = new Address();
     	this.ID = IdGenerator.newID();
 		this.delivery = new Delivery(this);
-		this.payment = new Payment();
 		this.active = true;
     }
 
-    public Subscriber (String name, String email, String phone, Address address, String creditCardNum) {
+    public Subscriber (String name, String email, String phone, Address address) {
     	this.name = name;
     	this.email = email;
     	this.phone = phone.replaceAll("[\\s\\-()]", ""); // drop all non-digit characters
     	this.address = address;
     	this.delivery = new Delivery(this);
     	this.ID = IdGenerator.newID();
-		this.payment = new Payment(creditCardNum);
 		this.active = true;
     }
 
-    public Subscriber (String name, String email, String phone, Address address, String fb, String tw, String creditCardNum) {
+    public Subscriber (String name, String email, String phone, Address address, String fb, String tw) {
     	this.name = name;
     	this.email = email;
     	this.phone = phone.replaceAll("[\\s\\-()]", ""); // drop all non-digit characters
@@ -47,7 +44,6 @@ public class Subscriber {
     	this.facebook = fb;
     	this.delivery = new Delivery(this);
     	this.ID = IdGenerator.newID();
-		this.payment = new Payment(creditCardNum);
 		this.active = true;
 	}
 
@@ -73,10 +69,6 @@ public class Subscriber {
     	} else return false;
     }
 
-	public Payment getPayment() {
-		return payment;
-	}
-
 	public String getEmail(){
 		return this.email;
 	}
@@ -95,12 +87,23 @@ public class Subscriber {
 
 	public boolean isActive() { return this.active; }
 
-    public void updateInfo(String name, String email, String phone, Address address, String creditCardNum) {
+	public Address getAddress() {
+		return address;
+	}
+
+	public String getTwitter() {
+		return twitter;
+	}
+
+	public String getFacebook() {
+		return facebook;
+	}
+
+	public void updateInfo(String name, String email, String phone, Address address) {
     	this.name = name;
     	this.email = email;
     	this.phone = phone;
     	this.address = address;
-		this.payment.updateCard(creditCardNum);
     }
 
 	public void updateOrderPreference(MonthlySelectionType mst, int q){
@@ -109,6 +112,10 @@ public class Subscriber {
 
 	public void updateOrderOnce(MonthlySelectionType mst, int q){
 		deliveryHistory.get(deliveryHistory.size()-1).updateOrder(mst, q);
+	}
+
+	public Delivery getDelivery() {
+		return delivery;
 	}
 
 	public void updateDeliveryPreference(Date date){

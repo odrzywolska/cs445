@@ -12,14 +12,14 @@ public class AddSubscriber extends AddSubscriberRequest {
 	private Subscriber s;
 
 	public AddSubscriber(String street, String city, String state, String zip,
-						 String name, String email, String phone, String tw, String fb, String cc) {
-		super(street, city, state, zip, name, email, phone, tw, fb, cc);
+						 String name, String email, String phone, String tw, String fb) {
+		super(street, city, state, zip, name, email, phone, tw, fb);
 	}
 
 	@Override
 	public AddSubscriberResponse addAccount(Collection<Subscriber> subs) {
 		a = new Address(this.street, this.city, this.state, this.zip);
-		s = new Subscriber(this.name, this.email, this.phone, a, this.facebook, this.twitter, this.creditCard);
+		s = new Subscriber(this.name, this.email, this.phone, a, this.facebook, this.twitter);
 		
 		if (addressInBannedState()) {
 			return new AddSubscriberResponse(0, false, "Cannot ship to this state");

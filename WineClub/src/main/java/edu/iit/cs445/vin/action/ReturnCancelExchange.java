@@ -25,7 +25,7 @@ public class ReturnCancelExchange extends ReturnCancelExchangeRequest {
 
     private Delivery getDelivery(Collection<Delivery> dels, int delId) {
         for(Delivery del:dels){
-            if(del.getId() == delId){
+            if(del.getDeliveryId() == delId){
                 return del;
             }
         }
@@ -49,7 +49,6 @@ public class ReturnCancelExchange extends ReturnCancelExchangeRequest {
         else{
             delivery.setDelStat(DeliveryStatus.Canceled);
             double returnAmount = delivery.getQuantity() * delivery.getPrice();
-            dataBaseSub.getPayment().refund(returnAmount);
             return new GenericResponse(false, "Order has been cancelled");
         }
     }
@@ -90,7 +89,6 @@ public class ReturnCancelExchange extends ReturnCancelExchangeRequest {
         else{
             delivery.setDelStat(DeliveryStatus.Returned);
             double returnAmount = delivery.getQuantity() * delivery.getPrice();
-            dataBaseSub.getPayment().refund(returnAmount);
             return new GenericResponse(false, "Order has been returned");
         }
     }

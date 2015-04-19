@@ -53,6 +53,14 @@ public class Delivery {
         this.price = Properties.DEFAULT_PRICE;
     }
 
+    public int getDeliveryId() {
+        return deliveryId;
+    }
+
+    public DeliveryStatus getDelStat() {
+        return delStat;
+    }
+
     public void setDeliveryDate(Date date){
         this.deliveryDate = date;
     }
@@ -64,10 +72,6 @@ public class Delivery {
 
     public void setNote(String note) {
         this.note = note;
-    }
-
-    public int getId() {
-        return deliveryId;
     }
 
     public void setSignature(String first, String last){
@@ -93,6 +97,10 @@ public class Delivery {
 
     public Date getDeliveryDate() {
         return deliveryDate;
+    }
+
+    public String getNote() {
+        return note;
     }
 
     @Override

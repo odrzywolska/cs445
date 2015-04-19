@@ -11,10 +11,10 @@ import java.util.Collection;
 public abstract class ModifySubscriberRequest {
 
     protected String street, city, state, zip;
-    protected String name, email, phone, twitter, facebook, creditCard;
+    protected String name, email, phone, twitter, facebook;
     protected int subId;
 
-    public ModifySubscriberRequest(int subId, String street, String c, String state, String z, String n, String e, String p, String cc) {
+    public ModifySubscriberRequest(int subId, String street, String c, String state, String z, String n, String e, String p) {
         this.subId = subId;
         this.street = street;
         this.city = c;
@@ -23,7 +23,6 @@ public abstract class ModifySubscriberRequest {
         this.name = n;
         this.email = e;
         this.phone = p;
-        this.creditCard = cc;
     }
 
     public abstract GenericResponse modifyAccount(Collection<Subscriber> subs);
