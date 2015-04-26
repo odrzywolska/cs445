@@ -1,5 +1,9 @@
 package edu.iit.cs445.vin.rest;
 
+import edu.iit.cs445.vin.data.SubscribersData;
+import edu.iit.cs445.vin.model.Address;
+import edu.iit.cs445.vin.model.Delivery;
+import edu.iit.cs445.vin.model.Subscriber;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -13,7 +17,11 @@ public class SubscriberServiceTest {
 
     @Before
     public void setUp() throws Exception {
-
+//create a bunch of subscribers to do tests on
+        Address adr = new Address("111 N Main St","Chicago","IL","60611");
+        Subscriber subA = new Subscriber("Abc Def", "abd@def.com","7735551111",adr);
+        subA.addDelivery(new Delivery(subA));
+        SubscribersData.getSubs().add(subA);
     }
 
     @After
