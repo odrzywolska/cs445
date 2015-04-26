@@ -1,10 +1,7 @@
 package edu.iit.cs445.vin.action;
 
 import edu.iit.cs445.vin.data.IdGenerator;
-import edu.iit.cs445.vin.model.Address;
-import edu.iit.cs445.vin.model.Delivery;
-import edu.iit.cs445.vin.model.Receipt;
-import edu.iit.cs445.vin.model.Subscriber;
+import edu.iit.cs445.vin.model.*;
 import edu.iit.cs445.vin.request.ReceiptRequest;
 import edu.iit.cs445.vin.response.DeliveriesResponse;
 import edu.iit.cs445.vin.response.IdResponse;
@@ -34,6 +31,7 @@ public class DeliveryActionTest {
                 new Address("123 Main St", "Anytown", "Illinois", "66666"));
         sub1.setId(IdGenerator.newID());
         sub1.setDelivery(new Delivery("Tue", "AM"));
+        sub1.setShipments(new ArrayList<Shipment>());
         subscribers.add(sub1);
         Receipt rec = new Receipt(IdGenerator.newID(), "Abc Def", Calendar.getInstance().getTime(), sub1.getId());
         recs.add(rec);

@@ -78,7 +78,9 @@ public class AdminActionTest {
 
     @Test
     public void testGetRevenue() throws Exception {
-
+        RevenueResponse response = action.getRevenue(subscribers);
+        assertEquals(1, response.getUnits_delivered());
+        assertTrue(59.99 == response.getWine_revenue());
     }
 
     @Test

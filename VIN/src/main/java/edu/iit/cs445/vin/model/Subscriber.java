@@ -1,5 +1,6 @@
 package edu.iit.cs445.vin.model;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Subscriber {
@@ -7,8 +8,8 @@ public class Subscriber {
     int id;
     String email, name, phone, facebook, twitter;
     Address address;
-    List<Shipment> shipments;
-    Delivery delivery;
+    List<Shipment> shipments = new ArrayList<Shipment>();
+    Delivery delivery = new Delivery();
 
     public Subscriber() {
     }

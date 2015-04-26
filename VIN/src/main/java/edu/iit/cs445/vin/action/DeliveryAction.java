@@ -48,7 +48,9 @@ public class DeliveryAction {
                 subscriber.getId());
 
         int shipments = subscriber.getShipments().size();
-        subscriber.getShipments().get(shipments-1).setDeliveryStatus(DeliveryStatus.Delivered);
+        if(shipments != 0){
+            subscriber.getShipments().get(shipments-1).setDeliveryStatus(DeliveryStatus.Delivered);
+        }
         receipts.add(receipt);
         return new IdResponse(receipt.getId());
     }
