@@ -58,8 +58,5 @@ public class DataLoaderTest {
         assertEquals(monthlySelections1.get(0).getId(), monthlySelection.getId());
         assertEquals(receipts1.get(0).getId(), receipt.getId());
         assertEquals(subscribers1.get(0).getId(), subscriber.getId());
-
     }
-
-
 }
