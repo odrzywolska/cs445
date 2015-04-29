@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>edu.iit.cs445.vin</OriginalElement>
+  <nodes>
+    <node x="1277.0238095238092" y="361.488095238095">edu.iit.cs445.vin.data.SubscriberData</node>
+    <node x="500.8928571428569" y="-89.8214285714285">edu.iit.cs445.vin.response.ShipmentsResponse</node>
+    <node x="1274.9761904761901" y="538.6904761904763">edu.iit.cs445.vin.data.IdGenerator</node>
+    <node x="797.4285714285714" y="590.7142857142858">edu.iit.cs445.vin.model.Receipt</node>
+    <node x="783.9404761904763" y="-117.67857142857137">edu.iit.cs445.vin.request.SubscriberRequest</node>
+    <node x="512.8928571428571" y="668.75">edu.iit.cs445.vin.response.DeliveryResponse</node>
+    <node x="509.8928571428569" y="631.6071428571428">edu.iit.cs445.vin.response.DeliveriesResponse</node>
+    <node x="503.0357142857142" y="-132.6785714285714">edu.iit.cs445.vin.response.SubscriberResponse</node>
+    <node x="489.1785714285712" y="-40.53571428571422">edu.iit.cs445.vin.response.ShipmentDetailResponse</node>
+    <node x="521.1785714285714" y="99.46428571428578">edu.iit.cs445.vin.response.NotesResponse</node>
+    <node x="1253.5833333333328" y="59.64285714285741">edu.iit.cs445.vin.request.AddNoteRequest</node>
+    <node x="1225.3690476190475" y="643.0357142857142">edu.iit.cs445.vin.data.MonthlySelectionData</node>
+    <node x="935.6547619047616" y="480.8928571428571">edu.iit.cs445.vin.model.SelectionType</node>
+    <node x="-57.5" y="127.5">edu.iit.cs445.vin.action.SubscriberAction</node>
+    <node x="964.5357142857142" y="328.09523809523813">edu.iit.cs445.vin.data.Data</node>
+    <node x="932.047619047619" y="-55.595238095238074">edu.iit.cs445.vin.model.DeliveryStatus</node>
+    <node x="1208.8809523809523" y="8.45238095238119">edu.iit.cs445.vin.request.ShipmentUpdateRequest</node>
+    <node x="519.6071428571427" y="51.60714285714292">edu.iit.cs445.vin.response.WineResponse</node>
+    <node x="910.9047619047616" y="32.380952380952465">edu.iit.cs445.vin.model.Shipment</node>
+    <node x="1272.7023809523807" y="463.09523809523796">edu.iit.cs445.vin.data.AdminData</node>
+    <node x="485.7499999999998" y="354.4642857142856">edu.iit.cs445.vin.response.MonthlySelectionsResponse</node>
+    <node x="518.6071428571429" y="438.0357142857144">edu.iit.cs445.vin.response.IdErrorResponse</node>
+    <node x="801.4285714285714" y="143.09523809523813">edu.iit.cs445.vin.model.Subscriber</node>
+    <node x="1084.0833333333335" y="427.6190476190476">edu.iit.cs445.vin.data.DataLoader</node>
+    <node x="504.17857142857133" y="4.464285714285722">edu.iit.cs445.vin.response.ShipmentResponse</node>
+    <node x="1264.4047619047617" y="190.00000000000014">edu.iit.cs445.vin.request.ReceiptRequest</node>
+    <node x="507.8928571428571" y="190.89285714285717">edu.iit.cs445.vin.response.AdminResponse</node>
+    <node x="797.7976190476189" y="261.3690476190476">edu.iit.cs445.vin.model.MonthlySelection</node>
+    <node x="-275.25" y="227.5">edu.iit.cs445.vin.rest.AdminService</node>
+    <node x="-279.5" y="343.75">edu.iit.cs445.vin.rest.DeliveryService</node>
+    <node x="510.892857142857" y="522.3214285714284">edu.iit.cs445.vin.response.DeliverToResponse</node>
+    <node x="-282.0" y="121.25">edu.iit.cs445.vin.rest.SubscriberService</node>
+    <node x="515.6071428571428" y="595.1785714285714">edu.iit.cs445.vin.response.ReceiptsResponse</node>
+    <node x="823.3452380952381" y="4.34523809523813">edu.iit.cs445.vin.model.Address</node>
+    <node x="810.4761904761904" y="526.9047619047617">edu.iit.cs445.vin.model.Error</node>
+    <node x="525.4642857142857" y="476.60714285714295">edu.iit.cs445.vin.response.ErrorResponse</node>
+    <node x="1038.8214285714284" y="137.08333333333334">edu.iit.cs445.vin.model.Wine</node>
+    <node x="993.5714285714287" y="250.41666666666663">edu.iit.cs445.vin.request.MonthlySelectionRequest</node>
+    <node x="1266.535714285714" y="123.33333333333351">edu.iit.cs445.vin.request.AdminRequest</node>
+    <node x="753.5238095238094" y="203.3333333333334">edu.iit.cs445.vin.model.Admin</node>
+    <node x="469.46428571428555" y="268.75">edu.iit.cs445.vin.response.MonthlySelectionDetailResponse</node>
+    <node x="788.0952380952381" y="659.2857142857142">edu.iit.cs445.vin.model.Delivery</node>
+    <node x="515.6071428571429" y="559.4642857142857">edu.iit.cs445.vin.response.ReceiptResponse</node>
+    <node x="506.32142857142856" y="143.03571428571436">edu.iit.cs445.vin.response.AdminsResponse</node>
+    <node x="803.3333333333333" y="470.23809523809524">edu.iit.cs445.vin.model.Note</node>
+    <node x="529.0357142857143" y="393.03571428571433">edu.iit.cs445.vin.response.IdResponse</node>
+    <node x="-52.5" y="232.5">edu.iit.cs445.vin.action.AdminAction</node>
+    <node x="485.6071428571428" y="310.17857142857156">edu.iit.cs445.vin.response.MonthlySelectionResponse</node>
+    <node x="-53.75" y="350.0">edu.iit.cs445.vin.action.DeliveryAction</node>
+    <node x="504.46428571428555" y="230.8928571428572">edu.iit.cs445.vin.response.RevenueResponse</node>
+    <node x="1261.0119047619048" y="599.5833333333335">edu.iit.cs445.vin.data.ReceiptData</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="edu.iit.cs445.vin.response.SubscriberResponse" target="edu.iit.cs445.vin.model.Address">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionsResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.DeliveriesResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.ShipmentResponse" target="edu.iit.cs445.vin.model.DeliveryStatus">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.DeliverToResponse" target="edu.iit.cs445.vin.model.Address">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Address">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentDetailResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Receipt">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.NotesResponse" target="edu.iit.cs445.vin.model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Delivery">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Delivery">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.SubscriberResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.Wine">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ErrorResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentsResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.DeliveriesResponse" target="edu.iit.cs445.vin.response.DeliverToResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.DeliverToResponse" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.DeliveryResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.AdminResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdErrorResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.AdminsResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Subscriber">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.MonthlySelectionResponse" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.RevenueResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.Wine">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Shipment">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.WineResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.NotesResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.MonthlySelectionsResponse" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.ShipmentsResponse" target="edu.iit.cs445.vin.response.ShipmentResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.ReceiptsResponse" target="edu.iit.cs445.vin.response.ReceiptResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.ErrorResponse" target="edu.iit.cs445.vin.model.Error">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.request.SubscriberRequest" target="edu.iit.cs445.vin.model.Address">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.IdResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.Admin">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.DeliveryStatus">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.MonthlySelection" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.DeliveryResponse" target="edu.iit.cs445.vin.model.Error">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.MonthlySelection" target="edu.iit.cs445.vin.model.Wine">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse" target="edu.iit.cs445.vin.response.WineResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Subscriber">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.WineResponse" target="edu.iit.cs445.vin.model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.AdminsResponse" target="edu.iit.cs445.vin.response.AdminResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.rest.AdminService" target="edu.iit.cs445.vin.action.AdminAction">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.MonthlySelection">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.rest.SubscriberService" target="edu.iit.cs445.vin.action.SubscriberAction">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Admin">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.IdResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Error">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.Wine">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.WineResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Delivery" target="edu.iit.cs445.vin.model.SelectionType">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.model.Receipt">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.DeliveryStatus">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.Shipment">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.data.DataLoader" target="edu.iit.cs445.vin.data.Data">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.model.Wine" target="edu.iit.cs445.vin.model.Note">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.rest.DeliveryService" target="edu.iit.cs445.vin.action.DeliveryAction">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.MonthlySelection">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptsResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.response.IdErrorResponse" target="edu.iit.cs445.vin.model.Error">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.DeliverToResponse">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="1003.3333333333333" y="209.16666666666657" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

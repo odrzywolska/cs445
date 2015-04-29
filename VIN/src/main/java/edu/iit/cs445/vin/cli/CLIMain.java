@@ -43,10 +43,7 @@ public class CLIMain {
     private String phone = null;
 
     @Option(name="-f")
-    private String facebook = null;
-
-    @Option(name="-f")
-    private String file = null;
+    private String facebookORfile = null;
 
     @Option(name="-t")
     private String twitter = null;
@@ -98,6 +95,8 @@ public class CLIMain {
             parser.parseArgument(args);
         } catch (CmdLineException e) {
             System.out.println("Error parsing line");
+            e.printStackTrace();
+            return;
         }
 
         ObjectMapper mapper = new ObjectMapper();
@@ -111,14 +110,14 @@ public class CLIMain {
         if(arguments.get(0).equals("subscriber")){
             if(arguments.get(1).equals("add")){
                 IdErrorResponse response = subscriberAction.createSubscriber(SubscriberData.getSubscribers(),
-                        new SubscriberRequest(email, name, phone, facebook, twitter,
+                        new SubscriberRequest(email, name, phone, facebookORfile, twitter,
                                 new Address(address, city, state, zip
-                        )));
+                                )));
                 System.out.println(mapper.writeValueAsString(response));
             }
             else if(arguments.get(1).equals("modify")){
                 ErrorResponse response = subscriberAction.updateSubscriber(SubscriberData.getSubscribers(),
-                        new SubscriberRequest(email, name, phone, facebook, twitter,
+                        new SubscriberRequest(email, name, phone, facebookORfile, twitter,
                                 new Address(address, city, state, zip)),
                         uid);
                 System.out.println(mapper.writeValueAsString(response));
@@ -128,7 +127,7 @@ public class CLIMain {
                 System.out.println(mapper.writeValueAsString(response));
             }
             else if(arguments.get(1).equals("load")){
-                SubscriberRequest request = mapper.readValue(new File(file), SubscriberRequest.class);
+                SubscriberRequest request = mapper.readValue(new File(facebookORfile), SubscriberRequest.class);
                 IdErrorResponse response = subscriberAction.createSubscriber(SubscriberData.getSubscribers(), request);
                 System.out.println(mapper.writeValueAsString(response));
             }
@@ -185,9 +184,6 @@ public class CLIMain {
                     System.out.println(mapper.writeValueAsString(response));
                 }
             }
-            else if(arguments.get(1).equals("rank")){
-                //TODO:
-            }
         }
         else if(arguments.get(0).equals("delivery")){
             if(arguments.get(1).equals("view")){
@@ -199,49 +195,45 @@ public class CLIMain {
                 subscriberAction.updateDelivery(SubscriberData.getSubscribers(), uid, newDel);
             }
         }
-        else if(arguments.get(0).equals("admin")){
-            if(arguments.get(1).equals("revenue")){
+        else if(arguments.get(0).equals("admin")) {
+            if (arguments.get(1).equals("revenue")) {
                 RevenueResponse response = adminAction.getRevenue(SubscriberData.getSubscribers());
                 System.out.println(mapper.writeValueAsString(response));
-            }
-            else if(arguments.get(1).equals("search")){
+            } else if (arguments.get(1).equals("search")) {
                 AdminResponse response = adminAction.getAdmin(AdminData.getAdmins(), aid);
                 System.out.println(mapper.writeValueAsString(response));
-            }
-            else if(arguments.get(1).equals("add_monthly_selection")){
-                MonthlySelectionRequest request = mapper.readValue(new File(file), MonthlySelectionRequest.class);
+            } else if (arguments.get(1).equals("add_monthly_selection")) {
+                MonthlySelectionRequest request = mapper.readValue(new File(facebookORfile), MonthlySelectionRequest.class);
                 IdResponse response = adminAction.addMonthlySelection(MonthlySelectionData.getMonthlySelections(), SubscriberData.getSubscribers(), request);
                 System.out.println(mapper.writeValueAsString(response));
-            }
-            else if(arguments.get(1).equals("view_monthly_selection")){
-                if(mid == 0){
+            } else if (arguments.get(1).equals("view_monthly_selection")) {
+                if (mid == 0) {
                     MonthlySelectionsResponse response = adminAction.getMonthlySelections(MonthlySelectionData.getMonthlySelections());
                     System.out.println(mapper.writeValueAsString(response));
-                }
-                else{
+                } else {
                     MonthlySelectionDetailResponse response = adminAction.getMonthlySelection(MonthlySelectionData.getMonthlySelections(), mid);
                     System.out.println(mapper.writeValueAsString(response));
                 }
-              }
-            else if(arguments.get(0).equals("partner")){
-                if(arguments.get(1).equals("subscriber_list")){
-                    DeliveriesResponse response = deliveryAction.getDeliveries(SubscriberData.getSubscribers());
+            }
+        }
+        else if(arguments.get(0).equals("partner")){
+            if(arguments.get(1).equals("subscriber_list")){
+                DeliveriesResponse response = deliveryAction.getDeliveries(SubscriberData.getSubscribers());
+                System.out.println(mapper.writeValueAsString(response));
+            }
+            else if(arguments.get(1).equals("add_receipt")){
+                ReceiptRequest request = new ReceiptRequest(name);
+                IdResponse response = deliveryAction.addReceipt(SubscriberData.getSubscribers(), ReceiptData.getReceipts(), request);
+                System.out.println(mapper.writeValueAsString(response));
+            }
+            else if(arguments.get(1).equals("view_receipt")){
+                if(rid == 0){
+                    ReceiptsResponse response = deliveryAction.getReceipts(ReceiptData.getReceipts());
                     System.out.println(mapper.writeValueAsString(response));
                 }
-                else if(arguments.get(1).equals("add_receipt")){
-                    ReceiptRequest request = new ReceiptRequest(name);
-                    IdResponse response = deliveryAction.addReceipt(SubscriberData.getSubscribers(), ReceiptData.getReceipts(), request);
+                else{
+                    ReceiptResponse response = deliveryAction.getReceipt(ReceiptData.getReceipts(), rid);
                     System.out.println(mapper.writeValueAsString(response));
-                }
-                else if(arguments.get(1).equals("view_receipt")){
-                    if(rid == 0){
-                        ReceiptsResponse response = deliveryAction.getReceipts(ReceiptData.getReceipts());
-                        System.out.println(mapper.writeValueAsString(response));
-                    }
-                    else{
-                        ReceiptResponse response = deliveryAction.getReceipt(ReceiptData.getReceipts(), rid);
-                        System.out.println(mapper.writeValueAsString(response));
-                    }
                 }
             }
         }

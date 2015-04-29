@@ -1,0 +1,66 @@
+{
+  "type": "RW",
+  "selection_month": "Feb/2015",
+  "wines": [
+    {
+      "variety": "RED",
+      "wine_type": "TABLE",
+      "label_name": "The Mission",
+      "grape": "Merlot",
+      "region": "Napa",
+      "country": "USA",
+      "maker": "Sterling",
+      "year": "2014"
+    },
+    {
+      "variety": "RED",
+      "wine_type": "TABLE",
+      "label_name": "Joseph Phelps Cabernet Sauvignon 2012",
+      "grape": "Cabernet Sauvignon",
+      "region": "Napa",
+      "country": "USA",
+      "maker": "Joseph Phelps",
+      "year": "2012"
+    },
+    {
+      "variety": "RED",
+      "wine_type": "TABLE",
+      "label_name": "Round Pond Estate Rutherford",
+      "grape": "Cabernet Sauvignon",
+      "region": "Napa",
+      "country": "USA",
+      "maker": "Rutherford",
+      "year": "2014"
+    },
+    {
+      "variety": "RED",
+      "wine_type": "TABLE",
+      "label_name": "Dona Paula Black Label",
+      "grape": "Bordeaux",
+      "region": "",
+      "country": "Argentina",
+      "maker": "Dona Paula",
+      "year": "2013"
+    },
+    {
+      "variety": "RED",
+      "wine_type": "TABLE",
+      "label_name": "Schug Sonoma Coast Pinot Noir",
+      "grape": "Pinot Noir",
+      "region": "Sonoma Valley",
+      "country": "USA",
+      "maker": "Walter Schug",
+      "year": "2013"
+    },
+    {
+      "variety": "RED",
+      "wine_type": "TABLE",
+      "label_name": "Caymus Special Selection Cabernet Sauvignon",
+      "grape": "Cabernet Sauvignon",
+      "region": "Napa Valley",
+      "country": "USA",
+      "maker": "Charles F. Wagner",
+      "year": "2014"
+    }
+  ]
+}

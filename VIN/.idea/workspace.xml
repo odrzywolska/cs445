@@ -25,690 +25,16 @@
     <SUITE FILE_PATH="coverage/VIN$SubscriberActionTest.coverage" NAME="SubscriberActionTest Coverage Results" MODIFIED="1429500562055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>edu.iit.cs445.vin.action.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/VIN$All_in_VIN.coverage" NAME="All in VIN Coverage Results" MODIFIED="1430008605609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/VIN$All_in_VIN.coverage" NAME="All in VIN Coverage Results" MODIFIED="1430261850937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="3">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="CLIMain.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/cli/CLIMain.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state vertical-scroll-proportion="0.0">
-                    <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="JAVA/edu.iit.cs445.vin" pinned="false" current-in-tab="true">
-              <entry file="uml://JAVA/edu.iit.cs445.vin">
-                <provider selected="true" editor-type-id="UmlEditorProvider">
-                  <state>
-                    <ID>JAVA</ID>
-                    <OriginalElement>edu.iit.cs445.vin</OriginalElement>
-                    <nodes>
-                      <node x="406.0" y="8912.0">edu.iit.cs445.vin.data.SubscriberData</node>
-                      <node x="10453.0" y="1283.0">edu.iit.cs445.vin.response.ShipmentsResponse</node>
-                      <node x="1423.5" y="8894.0">edu.iit.cs445.vin.data.IdGenerator</node>
-                      <node x="4796.5" y="5337.0">edu.iit.cs445.vin.model.Receipt</node>
-                      <node x="6378.5" y="2773.0">edu.iit.cs445.vin.request.SubscriberRequest</node>
-                      <node x="9052.5" y="7275.0">edu.iit.cs445.vin.response.DeliveryResponse</node>
-                      <node x="7695.5" y="2523.0">edu.iit.cs445.vin.response.DeliveriesResponse</node>
-                      <node x="8818.5" y="1653.0">edu.iit.cs445.vin.response.SubscriberResponse</node>
-                      <node x="10628.5" y="537.0">edu.iit.cs445.vin.response.ShipmentDetailResponse</node>
-                      <node x="7103.0" y="5923.0">edu.iit.cs445.vin.response.NotesResponse</node>
-                      <node x="6391.5" y="3123.0">edu.iit.cs445.vin.request.AddNoteRequest</node>
-                      <node x="-32.0" y="8912.0">edu.iit.cs445.vin.data.MonthlySelectionData</node>
-                      <node x="5300.5" y="3226.0">edu.iit.cs445.vin.action.SubscriberActionTest</node>
-                      <node x="6842.5" y="2894.0">edu.iit.cs445.vin.cli.CLIMain</node>
-                      <node x="9457.0" y="6561.0">edu.iit.cs445.vin.action.SubscriberAction</node>
-                      <node x="3026.0" y="265.0">edu.iit.cs445.vin.model.SelectionType</node>
-                      <node x="3853.0" y="5115.0">edu.iit.cs445.vin.data.Data</node>
-                      <node x="9866.0" y="625.0">edu.iit.cs445.vin.model.DeliveryStatus</node>
-                      <node x="2940.5" y="1326.0">edu.iit.cs445.vin.action.AdminActionTest</node>
-                      <node x="6040.0" y="3501.0">edu.iit.cs445.vin.request.ShipmentUpdateRequest</node>
-                      <node x="9816.5" y="7999.0">edu.iit.cs445.vin.response.WineResponse</node>
-                      <node x="5416.5" y="427.0">edu.iit.cs445.vin.model.Shipment</node>
-                      <node x="785.0" y="8912.0">edu.iit.cs445.vin.data.AdminData</node>
-                      <node x="611.5" y="43.0">edu.iit.cs445.vin.response.MonthlySelectionsResponse</node>
-                      <node x="8796.5" y="7141.0">edu.iit.cs445.vin.response.IdErrorResponse</node>
-                      <node x="3476.5" y="4005.0">edu.iit.cs445.vin.model.Subscriber</node>
-                      <node x="4334.0" y="4963.0">edu.iit.cs445.vin.data.DataLoader</node>
-                      <node x="9816.5" y="1239.0">edu.iit.cs445.vin.response.ShipmentResponse</node>
-                      <node x="4450.5" y="5803.0">edu.iit.cs445.vin.data.DataLoaderTest</node>
-                      <node x="5717.0" y="4843.0">edu.iit.cs445.vin.request.ReceiptRequest</node>
-                      <node x="11356.5" y="8541.0">edu.iit.cs445.vin.response.AdminResponse</node>
-                      <node x="2296.5" y="5715.0">edu.iit.cs445.vin.model.MonthlySelection</node>
-                      <node x="-6.0" y="8017.0">edu.iit.cs445.vin.rest.AdminService</node>
-                      <node x="5140.5" y="4930.0">edu.iit.cs445.vin.action.DeliveryActionTest</node>
-                      <node x="7733.5" y="3101.0">edu.iit.cs445.vin.rest.DeliveryService</node>
-                      <node x="7637.0" y="2071.0">edu.iit.cs445.vin.response.DeliverToResponse</node>
-                      <node x="8300.0" y="6005.0">edu.iit.cs445.vin.rest.SubscriberService</node>
-                      <node x="7785.0" y="2923.0">edu.iit.cs445.vin.response.ReceiptsResponse</node>
-                      <node x="6778.0" y="1697.0">edu.iit.cs445.vin.model.Address</node>
-                      <node x="8507.5" y="7341.0">edu.iit.cs445.vin.model.Error</node>
-                      <node x="1476.5" y="7645.0">edu.iit.cs445.vin.model.Wine</node>
-                      <node x="8504.0" y="7563.0">edu.iit.cs445.vin.response.ErrorResponse</node>
-                      <node x="2938.5" y="1039.0">edu.iit.cs445.vin.request.MonthlySelectionRequest</node>
-                      <node x="1917.0" y="1403.0">edu.iit.cs445.vin.request.AdminRequest</node>
-                      <node x="2796.5" y="5421.0">edu.iit.cs445.vin.model.Admin</node>
-                      <node x="11096.5" y="7955.0">edu.iit.cs445.vin.response.MonthlySelectionDetailResponse</node>
-                      <node x="4601.0" y="4679.0">edu.iit.cs445.vin.model.Delivery</node>
-                      <node x="7796.5" y="2657.0">edu.iit.cs445.vin.response.ReceiptResponse</node>
-                      <node x="11308.0" y="8363.0">edu.iit.cs445.vin.response.AdminsResponse</node>
-                      <node x="5536.5" y="7599.0">edu.iit.cs445.vin.model.Note</node>
-                      <node x="528.0" y="8286.0">edu.iit.cs445.vin.action.AdminAction</node>
-                      <node x="8176.5" y="5483.0">edu.iit.cs445.vin.response.IdResponse</node>
-                      <node x="7191.0" y="2701.0">edu.iit.cs445.vin.action.DeliveryAction</node>
-                      <node x="1096.5" y="-1.0">edu.iit.cs445.vin.response.MonthlySelectionResponse</node>
-                      <node x="641.5" y="8657.0">edu.iit.cs445.vin.response.RevenueResponse</node>
-                      <node x="1102.0" y="8912.0">edu.iit.cs445.vin.data.ReceiptData</node>
-                    </nodes>
-                    <notes />
-                    <edges>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.action.DeliveryAction">
-                        <point x="40.0" y="-26.0" />
-                        <point x="6960.0" y="2760.0" />
-                        <point x="-209.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.ShipmentUpdateRequest">
-                        <point x="-30.0" y="26.0" />
-                        <point x="6890.0" y="3560.0" />
-                        <point x="120.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionsResponse">
-                        <point x="0.0" y="-114.0" />
-                        <point x="0.0" y="37.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.DeliveriesResponse">
-                        <point x="40.0" y="-59.0" />
-                        <point x="7440.0" y="2560.0" />
-                        <point x="-144.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.ShipmentResponse" target="edu.iit.cs445.vin.model.DeliveryStatus">
-                        <point x="0.0" y="-81.0" />
-                        <point x="0.0" y="15.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Address">
-                        <point x="80.0" y="-235.0" />
-                        <point x="3800.0" y="1520.0" />
-                        <point x="6920.0" y="1520.0" />
-                        <point x="0.0" y="-103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Receipt">
-                        <point x="187.0" y="0.0" />
-                        <point x="4880.0" y="5240.0" />
-                        <point x="-40.0" y="-103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentDetailResponse">
-                        <point x="463.0" y="0.0" />
-                        <point x="10800.0" y="6840.0" />
-                        <point x="0.0" y="103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.NotesResponse" target="edu.iit.cs445.vin.model.Note">
-                        <point x="-97.0" y="0.0" />
-                        <point x="5720.0" y="5960.0" />
-                        <point x="80.0" y="-81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.SubscriberResponse">
-                        <point x="-160.0" y="-279.0" />
-                        <point x="9760.0" y="1800.0" />
-                        <point x="181.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.action.SubscriberAction">
-                        <point x="40.0" y="-334.0" />
-                        <point x="5680.0" y="1560.0" />
-                        <point x="9840.0" y="1560.0" />
-                        <point x="-80.0" y="-279.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ErrorResponse">
-                        <point x="-40.0" y="279.0" />
-                        <point x="9880.0" y="7600.0" />
-                        <point x="96.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="0.0" y="-103.0" />
-                        <point x="10800.0" y="282.5" />
-                        <point x="54.0" y="2.5" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentsResponse">
-                        <point x="463.0" y="-40.0" />
-                        <point x="10600.0" y="6800.0" />
-                        <point x="0.0" y="37.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.DeliveryResponse">
-                        <point x="-80.0" y="279.0" />
-                        <point x="9840.0" y="7400.0" />
-                        <point x="147.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Receipt">
-                        <point x="-99.5" y="40.0" />
-                        <point x="4920.0" y="5040.0" />
-                        <point x="0.0" y="-103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.AdminResponse">
-                        <point x="40.0" y="114.0" />
-                        <point x="840.0" y="8600.0" />
-                        <point x="-83.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Shipment">
-                        <point x="0.0" y="-334.0" />
-                        <point x="0.0" y="213.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Subscriber">
-                        <point x="-187.0" y="-40.0" />
-                        <point x="3720.0" y="5200.0" />
-                        <point x="0.0" y="235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.MonthlySelectionResponse" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="103.5" y="0.0" />
-                        <point x="3080.0" y="80.0" />
-                        <point x="0.0" y="-15.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.request.AddNoteRequest">
-                        <point x="200.0" y="-334.0" />
-                        <point x="5840.0" y="3160.0" />
-                        <point x="-88.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
-                        <point x="272.0" y="-80.0" />
-                        <point x="1200.0" y="8320.0" />
-                        <point x="0.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.Wine">
-                        <point x="-223.5" y="0.0" />
-                        <point x="1720.0" y="640.0" />
-                        <point x="0.0" y="-235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Shipment">
-                        <point x="0.0" y="-235.0" />
-                        <point x="3720.0" y="720.0" />
-                        <point x="-223.5" y="80.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.NotesResponse">
-                        <point x="-400.0" y="-279.0" />
-                        <point x="9520.0" y="5960.0" />
-                        <point x="97.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.MonthlySelectionsResponse" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
-                        <point x="188.5" y="0.0" />
-                        <point x="-103.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.ShipmentsResponse" target="edu.iit.cs445.vin.response.ShipmentResponse">
-                        <point x="-147.0" y="0.0" />
-                        <point x="103.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.request.SubscriberRequest" target="edu.iit.cs445.vin.model.Address">
-                        <point x="0.0" y="-147.0" />
-                        <point x="6560.0" y="1880.0" />
-                        <point x="-142.0" y="80.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.ErrorResponse" target="edu.iit.cs445.vin.model.Error">
-                        <point x="0.0" y="-37.0" />
-                        <point x="0.0" y="59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.IdResponse">
-                        <point x="272.0" y="-20.0" />
-                        <point x="8240.0" y="8380.0" />
-                        <point x="0.0" y="37.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Subscriber">
-                        <point x="80.0" y="114.0" />
-                        <point x="3160.0" y="4520.0" />
-                        <point x="3680.0" y="4520.0" />
-                        <point x="-40.0" y="235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.request.MonthlySelectionRequest">
-                        <point x="0.0" y="-114.0" />
-                        <point x="0.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.DeliveryStatus">
-                        <point x="-171.5" y="0.0" />
-                        <point x="54.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Note">
-                        <point x="-139.5" y="66.66666666666674" />
-                        <point x="2680.0" y="1506.6666666666667" />
-                        <point x="2680.0" y="7840.0" />
-                        <point x="5600.0" y="7840.0" />
-                        <point x="-40.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.DeliveryResponse" target="edu.iit.cs445.vin.model.Error">
-                        <point x="-147.5" y="0.0" />
-                        <point x="92.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.MonthlySelection" target="edu.iit.cs445.vin.model.Wine">
-                        <point x="-143.5" y="0.0" />
-                        <point x="1880.0" y="5840.0" />
-                        <point x="160.0" y="-235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse" target="edu.iit.cs445.vin.response.WineResponse">
-                        <point x="-143.5" y="0.0" />
-                        <point x="103.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Wine">
-                        <point x="-339.5" y="-40.0" />
-                        <point x="4080.0" y="3520.0" />
-                        <point x="4080.0" y="960.0" />
-                        <point x="1760.0" y="960.0" />
-                        <point x="40.0" y="-235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Subscriber">
-                        <point x="-40.0" y="-279.0" />
-                        <point x="9880.0" y="1480.0" />
-                        <point x="3760.0" y="1480.0" />
-                        <point x="40.0" y="-235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Wine">
-                        <point x="-40.0" y="-114.0" />
-                        <point x="3040.0" y="1280.0" />
-                        <point x="1840.0" y="1280.0" />
-                        <point x="120.0" y="-235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.WineResponse" target="edu.iit.cs445.vin.model.Note">
-                        <point x="-103.5" y="0.0" />
-                        <point x="5680.0" y="8080.0" />
-                        <point x="40.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="0.0" y="-81.0" />
-                        <point x="0.0" y="15.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptResponse">
-                        <point x="209.0" y="0.0" />
-                        <point x="-123.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse">
-                        <point x="272.0" y="-6.66666666666606" />
-                        <point x="11240.0" y="8393.333333333334" />
-                        <point x="0.0" y="125.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.SubscriberRequest">
-                        <point x="-77.5" y="0.0" />
-                        <point x="181.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.rest.AdminService" target="edu.iit.cs445.vin.action.AdminAction">
-                        <point x="0.0" y="103.0" />
-                        <point x="200.0" y="8400.0" />
-                        <point x="-272.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.MonthlySelection">
-                        <point x="-187.0" y="0.0" />
-                        <point x="2480.0" y="5240.0" />
-                        <point x="40.0" y="-125.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Note">
-                        <point x="0.0" y="334.0" />
-                        <point x="0.0" y="-81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.model.Delivery">
-                        <point x="-20.0" y="26.0" />
-                        <point x="6900.0" y="4760.0" />
-                        <point x="119.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Error">
-                        <point x="-463.0" y="0.0" />
-                        <point x="8600.0" y="6840.0" />
-                        <point x="0.0" y="-59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Address">
-                        <point x="69.5" y="0.0" />
-                        <point x="8120.0" y="5840.0" />
-                        <point x="8120.0" y="1840.0" />
-                        <point x="142.0" y="40.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.Wine">
-                        <point x="-141.5" y="0.0" />
-                        <point x="1800.0" y="1120.0" />
-                        <point x="80.0" y="-235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.request.AdminRequest">
-                        <point x="-139.5" y="0.0" />
-                        <point x="83.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.request.SubscriberRequest">
-                        <point x="160.0" y="-334.0" />
-                        <point x="5800.0" y="2920.0" />
-                        <point x="-181.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Admin">
-                        <point x="0.0" y="114.0" />
-                        <point x="3080.0" y="5440.0" />
-                        <point x="83.5" y="-40.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Delivery" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="-119.0" y="0.0" />
-                        <point x="3360.0" y="4760.0" />
-                        <point x="3360.0" y="290.0" />
-                        <point x="54.0" y="10.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.model.Receipt">
-                        <point x="-40.0" y="59.0" />
-                        <point x="7360.0" y="5440.0" />
-                        <point x="123.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.Shipment">
-                        <point x="272.0" y="-73.33333333333394" />
-                        <point x="1240.0" y="8326.666666666666" />
-                        <point x="1240.0" y="360.0" />
-                        <point x="5600.0" y="360.0" />
-                        <point x="-40.0" y="-213.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdResponse">
-                        <point x="-280.0" y="-279.0" />
-                        <point x="9640.0" y="5520.0" />
-                        <point x="63.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.MonthlySelection">
-                        <point x="-69.5" y="0.0" />
-                        <point x="143.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.rest.DeliveryService" target="edu.iit.cs445.vin.action.DeliveryAction">
-                        <point x="-146.5" y="0.0" />
-                        <point x="7440.0" y="3160.0" />
-                        <point x="40.0" y="59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Delivery">
-                        <point x="40.0" y="114.0" />
-                        <point x="3120.0" y="4920.0" />
-                        <point x="4680.0" y="4920.0" />
-                        <point x="-40.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptsResponse">
-                        <point x="120.0" y="59.0" />
-                        <point x="7520.0" y="2960.0" />
-                        <point x="-135.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Delivery">
-                        <point x="-40.0" y="334.0" />
-                        <point x="5600.0" y="4560.0" />
-                        <point x="4720.0" y="4560.0" />
-                        <point x="0.0" y="-81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.IdErrorResponse" target="edu.iit.cs445.vin.model.Error">
-                        <point x="-83.5" y="0.0" />
-                        <point x="8640.0" y="7200.0" />
-                        <point x="40.0" y="-59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.SubscriberResponse" target="edu.iit.cs445.vin.model.Address">
-                        <point x="-181.5" y="0.0" />
-                        <point x="142.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Subscriber">
-                        <point x="0.0" y="-37.0" />
-                        <point x="4520.0" y="4400.0" />
-                        <point x="243.5" y="160.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.MonthlySelection">
-                        <point x="-139.5" y="53.33333333333326" />
-                        <point x="2440.0" y="1493.3333333333333" />
-                        <point x="0.0" y="-125.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.DeliverToResponse" target="edu.iit.cs445.vin.model.Address">
-                        <point x="0.0" y="-169.0" />
-                        <point x="7840.0" y="1880.0" />
-                        <point x="142.0" y="80.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.model.Address">
-                        <point x="0.0" y="-26.0" />
-                        <point x="0.0" y="103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Delivery">
-                        <point x="243.5" y="80.0" />
-                        <point x="4680.0" y="4320.0" />
-                        <point x="-40.0" y="-81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Delivery">
-                        <point x="-320.0" y="-279.0" />
-                        <point x="9600.0" y="5600.0" />
-                        <point x="4720.0" y="5600.0" />
-                        <point x="0.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.Wine">
-                        <point x="171.5" y="0.0" />
-                        <point x="11080.0" y="640.0" />
-                        <point x="11080.0" y="200.0" />
-                        <point x="1360.0" y="200.0" />
-                        <point x="1360.0" y="7880.0" />
-                        <point x="-243.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Note">
-                        <point x="-360.0" y="-279.0" />
-                        <point x="9560.0" y="5880.0" />
-                        <point x="5680.0" y="5880.0" />
-                        <point x="40.0" y="-81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.DeliverToResponse" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="203.0" y="0.0" />
-                        <point x="9240.0" y="2240.0" />
-                        <point x="9240.0" y="285.0" />
-                        <point x="54.0" y="5.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.DeliveriesResponse" target="edu.iit.cs445.vin.response.DeliverToResponse">
-                        <point x="0.0" y="-37.0" />
-                        <point x="0.0" y="169.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.request.ReceiptRequest">
-                        <point x="80.0" y="-70.0" />
-                        <point x="5320.0" y="4880.0" />
-                        <point x="-83.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdErrorResponse">
-                        <point x="-120.0" y="279.0" />
-                        <point x="9800.0" y="7200.0" />
-                        <point x="83.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Note">
-                        <point x="40.0" y="37.0" />
-                        <point x="4560.0" y="7680.0" />
-                        <point x="-103.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.AdminsResponse">
-                        <point x="272.0" y="0.0" />
-                        <point x="-132.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.RevenueResponse">
-                        <point x="0.0" y="114.0" />
-                        <point x="0.0" y="-103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.WineResponse">
-                        <point x="0.0" y="279.0" />
-                        <point x="0.0" y="-81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.ReceiptsResponse" target="edu.iit.cs445.vin.response.ReceiptResponse">
-                        <point x="0.0" y="-37.0" />
-                        <point x="0.0" y="103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.action.DeliveryAction">
-                        <point x="99.5" y="0.0" />
-                        <point x="7280.0" y="5000.0" />
-                        <point x="-120.0" y="59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Wine">
-                        <point x="0.0" y="37.0" />
-                        <point x="4520.0" y="7880.0" />
-                        <point x="243.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Admin">
-                        <point x="-69.5" y="-32.0" />
-                        <point x="2880.0" y="5808.0" />
-                        <point x="0.0" y="59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.Admin">
-                        <point x="272.0" y="-40.0" />
-                        <point x="2720.0" y="8360.0" />
-                        <point x="2720.0" y="5480.0" />
-                        <point x="-83.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Subscriber">
-                        <point x="-339.5" y="0.0" />
-                        <point x="3840.0" y="3560.0" />
-                        <point x="120.0" y="-235.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.request.ShipmentUpdateRequest">
-                        <point x="339.5" y="0.0" />
-                        <point x="-120.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.Note">
-                        <point x="40.0" y="-213.0" />
-                        <point x="5680.0" y="360.0" />
-                        <point x="11040.0" y="360.0" />
-                        <point x="11040.0" y="7680.0" />
-                        <point x="103.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="0.0" y="-213.0" />
-                        <point x="5640.0" y="287.5" />
-                        <point x="54.0" y="7.5" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentResponse">
-                        <point x="0.0" y="-279.0" />
-                        <point x="0.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Receipt">
-                        <point x="69.5" y="-32.0" />
-                        <point x="4920.0" y="5808.0" />
-                        <point x="0.0" y="103.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.MonthlySelection" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="0.0" y="125.0" />
-                        <point x="2440.0" y="8200.0" />
-                        <point x="1400.0" y="8200.0" />
-                        <point x="1400.0" y="280.0" />
-                        <point x="-54.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Delivery">
-                        <point x="-99.5" y="0.0" />
-                        <point x="4760.0" y="5000.0" />
-                        <point x="40.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Address">
-                        <point x="40.0" y="-70.0" />
-                        <point x="5280.0" y="4800.0" />
-                        <point x="6320.0" y="4800.0" />
-                        <point x="6320.0" y="1840.0" />
-                        <point x="-142.0" y="40.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.AddNoteRequest">
-                        <point x="-40.0" y="26.0" />
-                        <point x="6880.0" y="3160.0" />
-                        <point x="88.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.AdminsResponse" target="edu.iit.cs445.vin.response.AdminResponse">
-                        <point x="0.0" y="37.0" />
-                        <point x="0.0" y="-59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Address">
-                        <point x="139.5" y="0.0" />
-                        <point x="7120.0" y="1440.0" />
-                        <point x="7120.0" y="1760.0" />
-                        <point x="142.0" y="-40.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.action.SubscriberAction">
-                        <point x="13.33333333333303" y="-26.0" />
-                        <point x="6933.333333333333" y="2000.0" />
-                        <point x="9720.0" y="2000.0" />
-                        <point x="-200.0" y="-279.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Address">
-                        <point x="120.0" y="-334.0" />
-                        <point x="5760.0" y="1800.0" />
-                        <point x="-142.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.rest.SubscriberService" target="edu.iit.cs445.vin.action.SubscriberAction">
-                        <point x="0.0" y="235.0" />
-                        <point x="8640.0" y="6800.0" />
-                        <point x="-463.0" y="-40.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Admin">
-                        <point x="-40.0" y="125.0" />
-                        <point x="4000.0" y="5600.0" />
-                        <point x="2920.0" y="5600.0" />
-                        <point x="40.0" y="59.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.IdResponse">
-                        <point x="0.0" y="59.0" />
-                        <point x="7400.0" y="5520.0" />
-                        <point x="-63.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.WineResponse">
-                        <point x="272.0" y="-13.33333333333394" />
-                        <point x="9920.0" y="8386.666666666666" />
-                        <point x="0.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Subscriber">
-                        <point x="0.0" y="-70.0" />
-                        <point x="5240.0" y="4240.0" />
-                        <point x="243.5" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse" target="edu.iit.cs445.vin.model.SelectionType">
-                        <point x="0.0" y="-125.0" />
-                        <point x="11240.0" y="280.0" />
-                        <point x="54.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.DeliveryStatus">
-                        <point x="223.5" y="0.0" />
-                        <point x="-54.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.data.DataLoader" target="edu.iit.cs445.vin.data.Data">
-                        <point x="-66.0" y="0.0" />
-                        <point x="4080.0" y="5000.0" />
-                        <point x="40.0" y="-125.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.action.AdminAction">
-                        <point x="-139.5" y="13.333333333333258" />
-                        <point x="2160.0" y="1453.3333333333333" />
-                        <point x="2160.0" y="8340.0" />
-                        <point x="272.0" y="-60.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.model.Wine" target="edu.iit.cs445.vin.model.Note">
-                        <point x="0.0" y="235.0" />
-                        <point x="1720.0" y="8160.0" />
-                        <point x="5640.0" y="8160.0" />
-                        <point x="0.0" y="81.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.MonthlySelection">
-                        <point x="272.0" y="-46.66666666666606" />
-                        <point x="2640.0" y="8353.333333333334" />
-                        <point x="2640.0" y="5880.0" />
-                        <point x="143.5" y="40.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.ReceiptRequest">
-                        <point x="-10.0" y="26.0" />
-                        <point x="6910.0" y="4880.0" />
-                        <point x="83.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.DeliverToResponse">
-                        <point x="0.0" y="-59.0" />
-                        <point x="7400.0" y="2240.0" />
-                        <point x="-203.0" y="0.0" />
-                      </edge>
-                      <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.action.AdminAction">
-                        <point x="0.0" y="26.0" />
-                        <point x="6920.0" y="8366.666666666666" />
-                        <point x="272.0" y="-33.33333333333394" />
-                      </edge>
-                    </edges>
-                    <settings layout="Hierarchic Group" zoom="0.057381280110117" x="5770.0" y="4503.5" />
-                    <SelectedNodes />
-                    <Categories>
-                      <Category>Methods</Category>
-                    </Categories>
-                    <SCOPE>All</SCOPE>
-                    <VISIBILITY>private</VISIBILITY>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -716,16 +42,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Subscriber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/Subscriber.java">
+      <file leaf-file-name="CLIMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/cli/CLIMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5762712">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#240#250#0" expanded="true" />
-                <element signature="e#1806#1807#0" expanded="true" />
-                <element signature="e#1837#1838#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1874#1882#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/AdminAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2039#2065#0" expanded="false" />
+                <element signature="e#3754#3768#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -735,59 +73,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/DeliveryAction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="51" column="99" selection-start-line="51" selection-start-column="99" selection-end-line="51" selection-end-column="99" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeliverToResponse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/response/DeliverToResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MonthlySelectionData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/MonthlySelectionData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReceiptData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/ReceiptData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubscriberService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/SubscriberService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdminAction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/AdminAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
               <folding>
-                <element signature="e#745#760#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#573#592#0" expanded="false" />
+                <element signature="e#2044#2061#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -797,17 +87,79 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/SubscriberAction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+              <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#3022#3029#0" expanded="false" />
+                <element signature="e#6164#6182#0" expanded="false" />
+                <element signature="e#10059#10065#0" expanded="false" />
+                <element signature="e#10211#10225#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeliveryService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/DeliveryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubscriberService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/SubscriberService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="68" selection-start-line="53" selection-start-column="68" selection-end-line="53" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.35207102">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MonthlySelectionResponse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/response/MonthlySelectionResponse.java">
+      <file leaf-file-name="vin.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vin.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state vertical-scroll-proportion="-1.36">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectionType.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SelectionType.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308">
+              <caret line="5" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -833,9 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/model/Response/AdminResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/model/Response/AdminsResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/GET.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/model/Response/RevenueResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/model/Response/MonthlySelectionResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/Wine.java" />
@@ -868,7 +217,6 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/ReceiptData.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/SubscriberData.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/SubscriberService.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/IdGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/Data.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/SelectionType.java" />
@@ -876,7 +224,6 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/AdminAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/SubscriberAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/AdminService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/cli/CLIMain.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/iit/cs445/vin/action/SubscriberActionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/response/DeliveryResponse.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/iit/cs445/vin/cli/CLIMainTest.java" />
@@ -884,6 +231,11 @@
         <option value="$PROJECT_DIR$/src/test/java/edu/iit/cs445/vin/action/DeliveryActionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/Subscriber.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/DeliveryAction.java" />
+        <option value="$PROJECT_DIR$/sylwia-odrzywolska.ser" />
+        <option value="$PROJECT_DIR$/SelectionType.json" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/cli/CLIMain.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/vin.sh" />
       </list>
     </option>
   </component>
@@ -932,6 +284,20 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="vin" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
           <option name="myItemId" value="Lifecycle" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
@@ -942,8 +308,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
-    <option name="width" value="970" />
+    <option name="x" value="490" />
+    <option name="width" value="876" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -998,277 +364,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="action" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="response" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cli" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="action" />
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1312,6 +408,155 @@
         <RestClientRequest>
           <option name="httpMethod" value="POST" />
           <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/vin/admin/monthly_selection" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{   &quot;type&quot;: &quot;RW&quot;,   &quot;selection_month&quot;: &quot;Apr/2015&quot;,   &quot;wines&quot;: [     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;The Mission&quot;,       &quot;grape&quot;: &quot;Merlot&quot;,       &quot;region&quot;: &quot;Napa&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Sterling&quot;,       &quot;year&quot;: &quot;2014&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Joseph Phelps Cabernet Sauvignon 2012&quot;,       &quot;grape&quot;: &quot;Cabernet Sauvignon&quot;,       &quot;region&quot;: &quot;Napa&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Joseph Phelps&quot;,       &quot;year&quot;: &quot;2012&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Round Pond Estate Rutherford&quot;,       &quot;grape&quot;: &quot;Cabernet Sauvignon&quot;,       &quot;region&quot;: &quot;Napa&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Rutherford&quot;,       &quot;year&quot;: &quot;2014&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Dona Paula Black Label&quot;,       &quot;grape&quot;: &quot;Bordeaux&quot;,       &quot;region&quot;: &quot;&quot;,       &quot;country&quot;: &quot;Argentina&quot;,       &quot;maker&quot;: &quot;Dona Paula&quot;,       &quot;year&quot;: &quot;2013&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Schug Sonoma Coast Pinot Noir&quot;,       &quot;grape&quot;: &quot;Pinot Noir&quot;,       &quot;region&quot;: &quot;Sonoma Valley&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Walter Schug&quot;,       &quot;year&quot;: &quot;2013&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Caymus Special Selection Cabernet Sauvignon&quot;,       &quot;grape&quot;: &quot;Cabernet Sauvignon&quot;,       &quot;region&quot;: &quot;Napa Valley&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Charles F. Wagner&quot;,       &quot;year&quot;: &quot;2014&quot;     }   ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/vin/sub" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{   &quot;email&quot;: &quot;james.doe@example.com&quot;,   &quot;name&quot;: &quot;James Doe&quot;,   &quot;phone&quot;: &quot;123-456-7899&quot;,   &quot;address&quot;: {     &quot;street&quot;: &quot;1234 Main ST, Apt 2F&quot;,     &quot;city&quot;: &quot;Anytown&quot;,     &quot;state&quot;: &quot;Anystate&quot;,     &quot;zip&quot;: &quot;12345&quot;   },   &quot;facebook&quot;: &quot;&quot;,   &quot;twitter&quot;: &quot;&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/vin/sub" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{   &quot;email&quot;: &quot;jane.doe@example.com&quot;,   &quot;name&quot;: &quot;Jane Doe&quot;,   &quot;phone&quot;: &quot;123-456-7890&quot;,   &quot;address&quot;: {     &quot;street&quot;: &quot;123 Main ST, Apt 2F&quot;,     &quot;city&quot;: &quot;Anytown&quot;,     &quot;state&quot;: &quot;Anystate&quot;,     &quot;zip&quot;: &quot;12345&quot;   },   &quot;facebook&quot;: &quot;&quot;,   &quot;twitter&quot;: &quot;&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/vin/admin/monthly_selection" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{   &quot;type&quot;: &quot;RW&quot;,   &quot;selection_month&quot;: &quot;Feb/2015&quot;,   &quot;wines&quot;: [     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;The Mission&quot;,       &quot;grape&quot;: &quot;Merlot&quot;,       &quot;region&quot;: &quot;Napa&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Sterling&quot;,       &quot;year&quot;: &quot;2014&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Joseph Phelps Cabernet Sauvignon 2012&quot;,       &quot;grape&quot;: &quot;Cabernet Sauvignon&quot;,       &quot;region&quot;: &quot;Napa&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Joseph Phelps&quot;,       &quot;year&quot;: &quot;2012&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Round Pond Estate Rutherford&quot;,       &quot;grape&quot;: &quot;Cabernet Sauvignon&quot;,       &quot;region&quot;: &quot;Napa&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Rutherford&quot;,       &quot;year&quot;: &quot;2014&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Dona Paula Black Label&quot;,       &quot;grape&quot;: &quot;Bordeaux&quot;,       &quot;region&quot;: &quot;&quot;,       &quot;country&quot;: &quot;Argentina&quot;,       &quot;maker&quot;: &quot;Dona Paula&quot;,       &quot;year&quot;: &quot;2013&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Schug Sonoma Coast Pinot Noir&quot;,       &quot;grape&quot;: &quot;Pinot Noir&quot;,       &quot;region&quot;: &quot;Sonoma Valley&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Walter Schug&quot;,       &quot;year&quot;: &quot;2013&quot;     },     {       &quot;variety&quot;: &quot;RED&quot;,       &quot;wine_type&quot;: &quot;TABLE&quot;,       &quot;label_name&quot;: &quot;Caymus Special Selection Cabernet Sauvignon&quot;,       &quot;grape&quot;: &quot;Cabernet Sauvignon&quot;,       &quot;region&quot;: &quot;Napa Valley&quot;,       &quot;country&quot;: &quot;USA&quot;,       &quot;maker&quot;: &quot;Charles F. Wagner&quot;,       &quot;year&quot;: &quot;2014&quot;     }   ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/vin/admin/1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Alex AdMin&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/vin/admin" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Alex AdMin&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
           <option name="urlPath" value="/vin/admin" />
           <option name="headers">
             <list>
@@ -1337,31 +582,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in VIN">
-    <configuration default="false" name="SubscriberActionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration default="false" name="CLIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="edu.iit.cs445.vin.action.*" />
+          <option name="PATTERN" value="edu.iit.cs445.vin.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="VIN" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.vin.cli.CLIMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="subscriber add -n &quot;Some Person&quot; -e cool@gmail.com -a &quot;77 W Main&quot; -c Chicago -s Illinois -z  66666 -h  7735551111  " />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.iit.cs445.vin.action" />
-      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.vin.action.SubscriberActionTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="VIN" />
       <envs />
-      <patterns />
       <method />
     </configuration>
     <configuration default="false" name="AdminActionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -1740,6 +979,81 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="Add Subscriber" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.vin.cli.CLIMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="subscriber add -n &quot;Some Person&quot; -e cool@gmail.com -a &quot;77 W Main&quot; -c Chicago -s Illinois -z  66666 -h  7735551111  " />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VIN" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="View Subscriber" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.vin.cli.CLIMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="subscriber view -uid 0" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VIN" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="View Shipments" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.vin.cli.CLIMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="shipments view -uid 0" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VIN" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Partner get deliveries" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.vin.cli.CLIMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="partner subscriber_list" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VIN" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Add Monthly Selection" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="edu.iit.cs445.vin.cli.CLIMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="admin add_monthly_selection -f SelectionType.json" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VIN" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.61" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -1762,6 +1076,21 @@
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="53466" />
       </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -1798,21 +1127,26 @@
         </option>
       </method>
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SubscriberActionTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.AdminActionTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testAddMonthlySelection" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testGetRevenue" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.All in VIN" />
+    <list size="11">
+      <item index="0" class="java.lang.String" itemvalue="Application.Add Subscriber" />
+      <item index="1" class="java.lang.String" itemvalue="Application.View Subscriber" />
+      <item index="2" class="java.lang.String" itemvalue="Application.View Shipments" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Partner get deliveries" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Add Monthly Selection" />
+      <item index="5" class="java.lang.String" itemvalue="Application.CLIMain" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.AdminActionTest" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testAddMonthlySelection" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testGetRevenue" />
+      <item index="9" class="java.lang.String" itemvalue="JUnit.All in VIN" />
+      <item index="10" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.All in VIN" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AdminActionTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testGetRevenue" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testAddMonthlySelection" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SubscriberActionTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CLIMain" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AdminActionTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testGetRevenue" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.AdminActionTest.testAddMonthlySelection" />
       </list>
     </recent_temporary>
   </component>
@@ -1827,12 +1161,12 @@
       <option name="number" value="Default" />
       <updated>1429497624583</updated>
       <workItem from="1429497589936" duration="7906000" />
-      <workItem from="1429995500196" duration="14465000" />
+      <workItem from="1429995500196" duration="36710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22371000" />
+    <option name="totallyTimeSpent" value="44616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1844,8 +1178,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="396" y="0" width="970" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="490" y="0" width="876" height="728" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1854,18 +1188,18 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3027523" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46568626" sideWeight="0.49346405" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2600671" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21648352" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38590604" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22012103" sideWeight="0.50653595" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31428573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30147058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39261746" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1874,7 +1208,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33663365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41830066" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1922,7 +1256,7 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
@@ -1940,7 +1274,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2059,24 +1393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/AdminData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/iit/cs445/vin/data/DataLoaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2093,19 +1409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#441#448#0" expanded="true" />
-            <element signature="e#525#543#0" expanded="true" />
-            <element signature="e#602#611#0" expanded="true" />
-            <element signature="e#676#688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/SelectionType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2114,29 +1417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/Delivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/response/RevenueResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/DataLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -2157,22 +1441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/AdminService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1100323">
-          <caret line="93" column="8" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/DeliveryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.26537216">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/response/DeliveryResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.69863015">
@@ -2188,17 +1456,9 @@
         <state vertical-scroll-proportion="0.15924658">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#907#913#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#907#913#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/cli/CLIMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2207,7 +1467,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2216,14 +1476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/DeliveryAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="99" selection-start-line="51" selection-start-column="99" selection-end-line="51" selection-end-column="99" />
           <folding />
         </state>
       </provider>
@@ -2244,40 +1496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/ReceiptData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/SubscriberService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/AdminAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding>
-            <element signature="e#745#760#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/SubscriberAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/response/MonthlySelectionResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2286,16 +1504,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/Delivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/ReceiptData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18230563">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/model/Subscriber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5762712">
+        <state vertical-scroll-proportion="0.6380697">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#240#250#0" expanded="true" />
-            <element signature="e#1806#1807#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#240#250#0" expanded="false" />
+            <element signature="e#1806#1807#0" expanded="false" />
+            <element signature="e#1837#1838#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.iit.cs445.vin.cli.CLIMain">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.iit.cs445.vin.cli.CLIMain</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="39.0" y="15.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.iit.cs445.vin.rest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.iit.cs445.vin.rest</OriginalElement>
+          <nodes>
+            <node x="" y="">edu.iit.cs445.vin.rest.AdminService</node>
+            <node x="" y="">edu.iit.cs445.vin.rest.DeliveryService</node>
+            <node x="" y="">edu.iit.cs445.vin.rest.SubscriberService</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="63.0" y="150.49999999999994" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -2305,655 +1582,495 @@
           <ID>JAVA</ID>
           <OriginalElement>edu.iit.cs445.vin</OriginalElement>
           <nodes>
-            <node x="406.0" y="8912.0">edu.iit.cs445.vin.data.SubscriberData</node>
-            <node x="10453.0" y="1283.0">edu.iit.cs445.vin.response.ShipmentsResponse</node>
-            <node x="1423.5" y="8894.0">edu.iit.cs445.vin.data.IdGenerator</node>
-            <node x="4796.5" y="5337.0">edu.iit.cs445.vin.model.Receipt</node>
-            <node x="6378.5" y="2773.0">edu.iit.cs445.vin.request.SubscriberRequest</node>
-            <node x="9052.5" y="7275.0">edu.iit.cs445.vin.response.DeliveryResponse</node>
-            <node x="7695.5" y="2523.0">edu.iit.cs445.vin.response.DeliveriesResponse</node>
-            <node x="8818.5" y="1653.0">edu.iit.cs445.vin.response.SubscriberResponse</node>
-            <node x="10628.5" y="537.0">edu.iit.cs445.vin.response.ShipmentDetailResponse</node>
-            <node x="7103.0" y="5923.0">edu.iit.cs445.vin.response.NotesResponse</node>
-            <node x="6391.5" y="3123.0">edu.iit.cs445.vin.request.AddNoteRequest</node>
-            <node x="-32.0" y="8912.0">edu.iit.cs445.vin.data.MonthlySelectionData</node>
-            <node x="5300.5" y="3226.0">edu.iit.cs445.vin.action.SubscriberActionTest</node>
-            <node x="6842.5" y="2894.0">edu.iit.cs445.vin.cli.CLIMain</node>
-            <node x="9457.0" y="6561.0">edu.iit.cs445.vin.action.SubscriberAction</node>
-            <node x="3026.0" y="265.0">edu.iit.cs445.vin.model.SelectionType</node>
-            <node x="3853.0" y="5115.0">edu.iit.cs445.vin.data.Data</node>
-            <node x="9866.0" y="625.0">edu.iit.cs445.vin.model.DeliveryStatus</node>
-            <node x="2940.5" y="1326.0">edu.iit.cs445.vin.action.AdminActionTest</node>
-            <node x="6040.0" y="3501.0">edu.iit.cs445.vin.request.ShipmentUpdateRequest</node>
-            <node x="9816.5" y="7999.0">edu.iit.cs445.vin.response.WineResponse</node>
-            <node x="5416.5" y="427.0">edu.iit.cs445.vin.model.Shipment</node>
-            <node x="785.0" y="8912.0">edu.iit.cs445.vin.data.AdminData</node>
-            <node x="611.5" y="43.0">edu.iit.cs445.vin.response.MonthlySelectionsResponse</node>
-            <node x="8796.5" y="7141.0">edu.iit.cs445.vin.response.IdErrorResponse</node>
-            <node x="3476.5" y="4005.0">edu.iit.cs445.vin.model.Subscriber</node>
-            <node x="4334.0" y="4963.0">edu.iit.cs445.vin.data.DataLoader</node>
-            <node x="9816.5" y="1239.0">edu.iit.cs445.vin.response.ShipmentResponse</node>
-            <node x="4450.5" y="5803.0">edu.iit.cs445.vin.data.DataLoaderTest</node>
-            <node x="5717.0" y="4843.0">edu.iit.cs445.vin.request.ReceiptRequest</node>
-            <node x="11356.5" y="8541.0">edu.iit.cs445.vin.response.AdminResponse</node>
-            <node x="2296.5" y="5715.0">edu.iit.cs445.vin.model.MonthlySelection</node>
-            <node x="-6.0" y="8017.0">edu.iit.cs445.vin.rest.AdminService</node>
-            <node x="5140.5" y="4930.0">edu.iit.cs445.vin.action.DeliveryActionTest</node>
-            <node x="7733.5" y="3101.0">edu.iit.cs445.vin.rest.DeliveryService</node>
-            <node x="7637.0" y="2071.0">edu.iit.cs445.vin.response.DeliverToResponse</node>
-            <node x="8300.0" y="6005.0">edu.iit.cs445.vin.rest.SubscriberService</node>
-            <node x="7785.0" y="2923.0">edu.iit.cs445.vin.response.ReceiptsResponse</node>
-            <node x="6778.0" y="1697.0">edu.iit.cs445.vin.model.Address</node>
-            <node x="8507.5" y="7341.0">edu.iit.cs445.vin.model.Error</node>
-            <node x="1476.5" y="7645.0">edu.iit.cs445.vin.model.Wine</node>
-            <node x="8504.0" y="7563.0">edu.iit.cs445.vin.response.ErrorResponse</node>
-            <node x="2938.5" y="1039.0">edu.iit.cs445.vin.request.MonthlySelectionRequest</node>
-            <node x="1917.0" y="1403.0">edu.iit.cs445.vin.request.AdminRequest</node>
-            <node x="2796.5" y="5421.0">edu.iit.cs445.vin.model.Admin</node>
-            <node x="11096.5" y="7955.0">edu.iit.cs445.vin.response.MonthlySelectionDetailResponse</node>
-            <node x="4601.0" y="4679.0">edu.iit.cs445.vin.model.Delivery</node>
-            <node x="7796.5" y="2657.0">edu.iit.cs445.vin.response.ReceiptResponse</node>
-            <node x="11308.0" y="8363.0">edu.iit.cs445.vin.response.AdminsResponse</node>
-            <node x="5536.5" y="7599.0">edu.iit.cs445.vin.model.Note</node>
-            <node x="528.0" y="8286.0">edu.iit.cs445.vin.action.AdminAction</node>
-            <node x="8176.5" y="5483.0">edu.iit.cs445.vin.response.IdResponse</node>
-            <node x="7191.0" y="2701.0">edu.iit.cs445.vin.action.DeliveryAction</node>
-            <node x="1096.5" y="-1.0">edu.iit.cs445.vin.response.MonthlySelectionResponse</node>
-            <node x="641.5" y="8657.0">edu.iit.cs445.vin.response.RevenueResponse</node>
-            <node x="1102.0" y="8912.0">edu.iit.cs445.vin.data.ReceiptData</node>
+            <node x="1277.0238095238092" y="361.488095238095">edu.iit.cs445.vin.data.SubscriberData</node>
+            <node x="500.8928571428569" y="-89.8214285714285">edu.iit.cs445.vin.response.ShipmentsResponse</node>
+            <node x="1274.9761904761901" y="538.6904761904763">edu.iit.cs445.vin.data.IdGenerator</node>
+            <node x="797.4285714285714" y="590.7142857142858">edu.iit.cs445.vin.model.Receipt</node>
+            <node x="783.9404761904763" y="-117.67857142857137">edu.iit.cs445.vin.request.SubscriberRequest</node>
+            <node x="512.8928571428571" y="668.75">edu.iit.cs445.vin.response.DeliveryResponse</node>
+            <node x="509.8928571428569" y="631.6071428571428">edu.iit.cs445.vin.response.DeliveriesResponse</node>
+            <node x="503.0357142857142" y="-132.6785714285714">edu.iit.cs445.vin.response.SubscriberResponse</node>
+            <node x="489.1785714285712" y="-40.53571428571422">edu.iit.cs445.vin.response.ShipmentDetailResponse</node>
+            <node x="521.1785714285714" y="99.46428571428578">edu.iit.cs445.vin.response.NotesResponse</node>
+            <node x="1253.5833333333328" y="59.64285714285741">edu.iit.cs445.vin.request.AddNoteRequest</node>
+            <node x="1225.3690476190475" y="643.0357142857142">edu.iit.cs445.vin.data.MonthlySelectionData</node>
+            <node x="935.6547619047616" y="480.8928571428571">edu.iit.cs445.vin.model.SelectionType</node>
+            <node x="-57.5" y="127.5">edu.iit.cs445.vin.action.SubscriberAction</node>
+            <node x="964.5357142857142" y="328.09523809523813">edu.iit.cs445.vin.data.Data</node>
+            <node x="932.047619047619" y="-55.595238095238074">edu.iit.cs445.vin.model.DeliveryStatus</node>
+            <node x="1208.8809523809523" y="8.45238095238119">edu.iit.cs445.vin.request.ShipmentUpdateRequest</node>
+            <node x="519.6071428571427" y="51.60714285714292">edu.iit.cs445.vin.response.WineResponse</node>
+            <node x="910.9047619047616" y="32.380952380952465">edu.iit.cs445.vin.model.Shipment</node>
+            <node x="1272.7023809523807" y="463.09523809523796">edu.iit.cs445.vin.data.AdminData</node>
+            <node x="485.7499999999998" y="354.4642857142856">edu.iit.cs445.vin.response.MonthlySelectionsResponse</node>
+            <node x="518.6071428571429" y="438.0357142857144">edu.iit.cs445.vin.response.IdErrorResponse</node>
+            <node x="801.4285714285714" y="143.09523809523813">edu.iit.cs445.vin.model.Subscriber</node>
+            <node x="1084.0833333333335" y="427.6190476190476">edu.iit.cs445.vin.data.DataLoader</node>
+            <node x="504.17857142857133" y="4.464285714285722">edu.iit.cs445.vin.response.ShipmentResponse</node>
+            <node x="1264.4047619047617" y="190.00000000000014">edu.iit.cs445.vin.request.ReceiptRequest</node>
+            <node x="507.8928571428571" y="190.89285714285717">edu.iit.cs445.vin.response.AdminResponse</node>
+            <node x="797.7976190476189" y="261.3690476190476">edu.iit.cs445.vin.model.MonthlySelection</node>
+            <node x="-275.25" y="227.5">edu.iit.cs445.vin.rest.AdminService</node>
+            <node x="-279.5" y="343.75">edu.iit.cs445.vin.rest.DeliveryService</node>
+            <node x="510.892857142857" y="522.3214285714284">edu.iit.cs445.vin.response.DeliverToResponse</node>
+            <node x="-282.0" y="121.25">edu.iit.cs445.vin.rest.SubscriberService</node>
+            <node x="515.6071428571428" y="595.1785714285714">edu.iit.cs445.vin.response.ReceiptsResponse</node>
+            <node x="823.3452380952381" y="4.34523809523813">edu.iit.cs445.vin.model.Address</node>
+            <node x="810.4761904761904" y="526.9047619047617">edu.iit.cs445.vin.model.Error</node>
+            <node x="525.4642857142857" y="476.60714285714295">edu.iit.cs445.vin.response.ErrorResponse</node>
+            <node x="1038.8214285714284" y="137.08333333333334">edu.iit.cs445.vin.model.Wine</node>
+            <node x="993.5714285714287" y="250.41666666666663">edu.iit.cs445.vin.request.MonthlySelectionRequest</node>
+            <node x="1266.535714285714" y="123.33333333333351">edu.iit.cs445.vin.request.AdminRequest</node>
+            <node x="753.5238095238094" y="203.3333333333334">edu.iit.cs445.vin.model.Admin</node>
+            <node x="469.46428571428555" y="268.75">edu.iit.cs445.vin.response.MonthlySelectionDetailResponse</node>
+            <node x="788.0952380952381" y="659.2857142857142">edu.iit.cs445.vin.model.Delivery</node>
+            <node x="515.6071428571429" y="559.4642857142857">edu.iit.cs445.vin.response.ReceiptResponse</node>
+            <node x="506.32142857142856" y="143.03571428571436">edu.iit.cs445.vin.response.AdminsResponse</node>
+            <node x="803.3333333333333" y="470.23809523809524">edu.iit.cs445.vin.model.Note</node>
+            <node x="529.0357142857143" y="393.03571428571433">edu.iit.cs445.vin.response.IdResponse</node>
+            <node x="-52.5" y="232.5">edu.iit.cs445.vin.action.AdminAction</node>
+            <node x="485.6071428571428" y="310.17857142857156">edu.iit.cs445.vin.response.MonthlySelectionResponse</node>
+            <node x="-53.75" y="350.0">edu.iit.cs445.vin.action.DeliveryAction</node>
+            <node x="504.46428571428555" y="230.8928571428572">edu.iit.cs445.vin.response.RevenueResponse</node>
+            <node x="1261.0119047619048" y="599.5833333333335">edu.iit.cs445.vin.data.ReceiptData</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.action.DeliveryAction">
-              <point x="40.0" y="-26.0" />
-              <point x="6960.0" y="2760.0" />
-              <point x="-209.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.ShipmentUpdateRequest">
-              <point x="-30.0" y="26.0" />
-              <point x="6890.0" y="3560.0" />
-              <point x="120.0" y="0.0" />
+            <edge source="edu.iit.cs445.vin.response.SubscriberResponse" target="edu.iit.cs445.vin.model.Address">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionsResponse">
-              <point x="0.0" y="-114.0" />
-              <point x="0.0" y="37.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.DeliveriesResponse">
-              <point x="40.0" y="-59.0" />
-              <point x="7440.0" y="2560.0" />
-              <point x="-144.5" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.ShipmentResponse" target="edu.iit.cs445.vin.model.DeliveryStatus">
-              <point x="0.0" y="-81.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Address">
-              <point x="80.0" y="-235.0" />
-              <point x="3800.0" y="1520.0" />
-              <point x="6920.0" y="1520.0" />
-              <point x="0.0" y="-103.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Receipt">
-              <point x="187.0" y="0.0" />
-              <point x="4880.0" y="5240.0" />
-              <point x="-40.0" y="-103.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentDetailResponse">
-              <point x="463.0" y="0.0" />
-              <point x="10800.0" y="6840.0" />
-              <point x="0.0" y="103.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.NotesResponse" target="edu.iit.cs445.vin.model.Note">
-              <point x="-97.0" y="0.0" />
-              <point x="5720.0" y="5960.0" />
-              <point x="80.0" y="-81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.SubscriberResponse">
-              <point x="-160.0" y="-279.0" />
-              <point x="9760.0" y="1800.0" />
-              <point x="181.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.action.SubscriberAction">
-              <point x="40.0" y="-334.0" />
-              <point x="5680.0" y="1560.0" />
-              <point x="9840.0" y="1560.0" />
-              <point x="-80.0" y="-279.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ErrorResponse">
-              <point x="-40.0" y="279.0" />
-              <point x="9880.0" y="7600.0" />
-              <point x="96.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="0.0" y="-103.0" />
-              <point x="10800.0" y="282.5" />
-              <point x="54.0" y="2.5" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentsResponse">
-              <point x="463.0" y="-40.0" />
-              <point x="10600.0" y="6800.0" />
-              <point x="0.0" y="37.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.DeliveryResponse">
-              <point x="-80.0" y="279.0" />
-              <point x="9840.0" y="7400.0" />
-              <point x="147.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Receipt">
-              <point x="-99.5" y="40.0" />
-              <point x="4920.0" y="5040.0" />
-              <point x="0.0" y="-103.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.AdminResponse">
-              <point x="40.0" y="114.0" />
-              <point x="840.0" y="8600.0" />
-              <point x="-83.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Shipment">
-              <point x="0.0" y="-334.0" />
-              <point x="0.0" y="213.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Subscriber">
-              <point x="-187.0" y="-40.0" />
-              <point x="3720.0" y="5200.0" />
-              <point x="0.0" y="235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.MonthlySelectionResponse" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="103.5" y="0.0" />
-              <point x="3080.0" y="80.0" />
-              <point x="0.0" y="-15.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.request.AddNoteRequest">
-              <point x="200.0" y="-334.0" />
-              <point x="5840.0" y="3160.0" />
-              <point x="-88.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
-              <point x="272.0" y="-80.0" />
-              <point x="1200.0" y="8320.0" />
-              <point x="0.0" y="81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.Wine">
-              <point x="-223.5" y="0.0" />
-              <point x="1720.0" y="640.0" />
-              <point x="0.0" y="-235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Shipment">
-              <point x="0.0" y="-235.0" />
-              <point x="3720.0" y="720.0" />
-              <point x="-223.5" y="80.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.NotesResponse">
-              <point x="-400.0" y="-279.0" />
-              <point x="9520.0" y="5960.0" />
-              <point x="97.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.MonthlySelectionsResponse" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
-              <point x="188.5" y="0.0" />
-              <point x="-103.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.ShipmentsResponse" target="edu.iit.cs445.vin.response.ShipmentResponse">
-              <point x="-147.0" y="0.0" />
-              <point x="103.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.request.SubscriberRequest" target="edu.iit.cs445.vin.model.Address">
-              <point x="0.0" y="-147.0" />
-              <point x="6560.0" y="1880.0" />
-              <point x="-142.0" y="80.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.ErrorResponse" target="edu.iit.cs445.vin.model.Error">
-              <point x="0.0" y="-37.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.IdResponse">
-              <point x="272.0" y="-20.0" />
-              <point x="8240.0" y="8380.0" />
-              <point x="0.0" y="37.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Subscriber">
-              <point x="80.0" y="114.0" />
-              <point x="3160.0" y="4520.0" />
-              <point x="3680.0" y="4520.0" />
-              <point x="-40.0" y="235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.request.MonthlySelectionRequest">
-              <point x="0.0" y="-114.0" />
-              <point x="0.0" y="81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.DeliveryStatus">
-              <point x="-171.5" y="0.0" />
-              <point x="54.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Note">
-              <point x="-139.5" y="66.66666666666674" />
-              <point x="2680.0" y="1506.6666666666667" />
-              <point x="2680.0" y="7840.0" />
-              <point x="5600.0" y="7840.0" />
-              <point x="-40.0" y="81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.DeliveryResponse" target="edu.iit.cs445.vin.model.Error">
-              <point x="-147.5" y="0.0" />
-              <point x="92.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.model.MonthlySelection" target="edu.iit.cs445.vin.model.Wine">
-              <point x="-143.5" y="0.0" />
-              <point x="1880.0" y="5840.0" />
-              <point x="160.0" y="-235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse" target="edu.iit.cs445.vin.response.WineResponse">
-              <point x="-143.5" y="0.0" />
-              <point x="103.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Wine">
-              <point x="-339.5" y="-40.0" />
-              <point x="4080.0" y="3520.0" />
-              <point x="4080.0" y="960.0" />
-              <point x="1760.0" y="960.0" />
-              <point x="40.0" y="-235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Subscriber">
-              <point x="-40.0" y="-279.0" />
-              <point x="9880.0" y="1480.0" />
-              <point x="3760.0" y="1480.0" />
-              <point x="40.0" y="-235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Wine">
-              <point x="-40.0" y="-114.0" />
-              <point x="3040.0" y="1280.0" />
-              <point x="1840.0" y="1280.0" />
-              <point x="120.0" y="-235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.WineResponse" target="edu.iit.cs445.vin.model.Note">
-              <point x="-103.5" y="0.0" />
-              <point x="5680.0" y="8080.0" />
-              <point x="40.0" y="81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="0.0" y="-81.0" />
-              <point x="0.0" y="15.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptResponse">
-              <point x="209.0" y="0.0" />
-              <point x="-123.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse">
-              <point x="272.0" y="-6.66666666666606" />
-              <point x="11240.0" y="8393.333333333334" />
-              <point x="0.0" y="125.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.SubscriberRequest">
-              <point x="-77.5" y="0.0" />
-              <point x="181.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.rest.AdminService" target="edu.iit.cs445.vin.action.AdminAction">
-              <point x="0.0" y="103.0" />
-              <point x="200.0" y="8400.0" />
-              <point x="-272.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.MonthlySelection">
-              <point x="-187.0" y="0.0" />
-              <point x="2480.0" y="5240.0" />
-              <point x="40.0" y="-125.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Note">
-              <point x="0.0" y="334.0" />
-              <point x="0.0" y="-81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.model.Delivery">
-              <point x="-20.0" y="26.0" />
-              <point x="6900.0" y="4760.0" />
-              <point x="119.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Error">
-              <point x="-463.0" y="0.0" />
-              <point x="8600.0" y="6840.0" />
-              <point x="0.0" y="-59.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Address">
-              <point x="69.5" y="0.0" />
-              <point x="8120.0" y="5840.0" />
-              <point x="8120.0" y="1840.0" />
-              <point x="142.0" y="40.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.Wine">
-              <point x="-141.5" y="0.0" />
-              <point x="1800.0" y="1120.0" />
-              <point x="80.0" y="-235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.request.AdminRequest">
-              <point x="-139.5" y="0.0" />
-              <point x="83.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.request.SubscriberRequest">
-              <point x="160.0" y="-334.0" />
-              <point x="5800.0" y="2920.0" />
-              <point x="-181.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Admin">
-              <point x="0.0" y="114.0" />
-              <point x="3080.0" y="5440.0" />
-              <point x="83.5" y="-40.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.model.Delivery" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="-119.0" y="0.0" />
-              <point x="3360.0" y="4760.0" />
-              <point x="3360.0" y="290.0" />
-              <point x="54.0" y="10.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.model.Receipt">
-              <point x="-40.0" y="59.0" />
-              <point x="7360.0" y="5440.0" />
-              <point x="123.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.Shipment">
-              <point x="272.0" y="-73.33333333333394" />
-              <point x="1240.0" y="8326.666666666666" />
-              <point x="1240.0" y="360.0" />
-              <point x="5600.0" y="360.0" />
-              <point x="-40.0" y="-213.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdResponse">
-              <point x="-280.0" y="-279.0" />
-              <point x="9640.0" y="5520.0" />
-              <point x="63.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.MonthlySelection">
-              <point x="-69.5" y="0.0" />
-              <point x="143.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.rest.DeliveryService" target="edu.iit.cs445.vin.action.DeliveryAction">
-              <point x="-146.5" y="0.0" />
-              <point x="7440.0" y="3160.0" />
-              <point x="40.0" y="59.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Delivery">
-              <point x="40.0" y="114.0" />
-              <point x="3120.0" y="4920.0" />
-              <point x="4680.0" y="4920.0" />
-              <point x="-40.0" y="81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptsResponse">
-              <point x="120.0" y="59.0" />
-              <point x="7520.0" y="2960.0" />
-              <point x="-135.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Delivery">
-              <point x="-40.0" y="334.0" />
-              <point x="5600.0" y="4560.0" />
-              <point x="4720.0" y="4560.0" />
-              <point x="0.0" y="-81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.IdErrorResponse" target="edu.iit.cs445.vin.model.Error">
-              <point x="-83.5" y="0.0" />
-              <point x="8640.0" y="7200.0" />
-              <point x="40.0" y="-59.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.response.SubscriberResponse" target="edu.iit.cs445.vin.model.Address">
-              <point x="-181.5" y="0.0" />
-              <point x="142.0" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Subscriber">
-              <point x="0.0" y="-37.0" />
-              <point x="4520.0" y="4400.0" />
-              <point x="243.5" y="160.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.MonthlySelection">
-              <point x="-139.5" y="53.33333333333326" />
-              <point x="2440.0" y="1493.3333333333333" />
-              <point x="0.0" y="-125.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.DeliverToResponse" target="edu.iit.cs445.vin.model.Address">
-              <point x="0.0" y="-169.0" />
-              <point x="7840.0" y="1880.0" />
-              <point x="142.0" y="80.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.model.Address">
-              <point x="0.0" y="-26.0" />
-              <point x="0.0" y="103.0" />
+            <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Address">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Receipt">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentDetailResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.response.NotesResponse" target="edu.iit.cs445.vin.model.Note">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Delivery">
-              <point x="243.5" y="80.0" />
-              <point x="4680.0" y="4320.0" />
-              <point x="-40.0" y="-81.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Delivery">
-              <point x="-320.0" y="-279.0" />
-              <point x="9600.0" y="5600.0" />
-              <point x="4720.0" y="5600.0" />
-              <point x="0.0" y="81.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.SubscriberResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ErrorResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.Wine">
-              <point x="171.5" y="0.0" />
-              <point x="11080.0" y="640.0" />
-              <point x="11080.0" y="200.0" />
-              <point x="1360.0" y="200.0" />
-              <point x="1360.0" y="7880.0" />
-              <point x="-243.5" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.SelectionType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentsResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Note">
-              <point x="-360.0" y="-279.0" />
-              <point x="9560.0" y="5880.0" />
-              <point x="5680.0" y="5880.0" />
-              <point x="40.0" y="-81.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.DeliverToResponse" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="203.0" y="0.0" />
-              <point x="9240.0" y="2240.0" />
-              <point x="9240.0" y="285.0" />
-              <point x="54.0" y="5.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.DeliveriesResponse" target="edu.iit.cs445.vin.response.DeliverToResponse">
-              <point x="0.0" y="-37.0" />
-              <point x="0.0" y="169.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.request.ReceiptRequest">
-              <point x="80.0" y="-70.0" />
-              <point x="5320.0" y="4880.0" />
-              <point x="-83.0" y="0.0" />
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.DeliveryResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdErrorResponse">
-              <point x="-120.0" y="279.0" />
-              <point x="9800.0" y="7200.0" />
-              <point x="83.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Note">
-              <point x="40.0" y="37.0" />
-              <point x="4560.0" y="7680.0" />
-              <point x="-103.5" y="0.0" />
+            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.AdminResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.AdminsResponse">
-              <point x="272.0" y="0.0" />
-              <point x="-132.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdErrorResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Subscriber">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.response.MonthlySelectionResponse" target="edu.iit.cs445.vin.model.SelectionType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.model.Subscriber" target="edu.iit.cs445.vin.model.Shipment">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.RevenueResponse">
-              <point x="0.0" y="114.0" />
-              <point x="0.0" y="-103.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.Wine">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.WineResponse">
-              <point x="0.0" y="279.0" />
-              <point x="0.0" y="-81.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.NotesResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.response.MonthlySelectionsResponse" target="edu.iit.cs445.vin.response.MonthlySelectionResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.response.ShipmentsResponse" target="edu.iit.cs445.vin.response.ShipmentResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.ReceiptsResponse" target="edu.iit.cs445.vin.response.ReceiptResponse">
-              <point x="0.0" y="-37.0" />
-              <point x="0.0" y="103.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.action.DeliveryAction">
-              <point x="99.5" y="0.0" />
-              <point x="7280.0" y="5000.0" />
-              <point x="-120.0" y="59.0" />
+            <edge source="edu.iit.cs445.vin.response.ErrorResponse" target="edu.iit.cs445.vin.model.Error">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Wine">
-              <point x="0.0" y="37.0" />
-              <point x="4520.0" y="7880.0" />
-              <point x="243.5" y="0.0" />
+            <edge source="edu.iit.cs445.vin.request.SubscriberRequest" target="edu.iit.cs445.vin.model.Address">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Admin">
-              <point x="-69.5" y="-32.0" />
-              <point x="2880.0" y="5808.0" />
-              <point x="0.0" y="59.0" />
+            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.IdResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.Admin">
-              <point x="272.0" y="-40.0" />
-              <point x="2720.0" y="8360.0" />
-              <point x="2720.0" y="5480.0" />
-              <point x="-83.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Subscriber">
-              <point x="-339.5" y="0.0" />
-              <point x="3840.0" y="3560.0" />
-              <point x="120.0" y="-235.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.request.ShipmentUpdateRequest">
-              <point x="339.5" y="0.0" />
-              <point x="-120.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.Note">
-              <point x="40.0" y="-213.0" />
-              <point x="5680.0" y="360.0" />
-              <point x="11040.0" y="360.0" />
-              <point x="11040.0" y="7680.0" />
-              <point x="103.5" y="0.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="0.0" y="-213.0" />
-              <point x="5640.0" y="287.5" />
-              <point x="54.0" y="7.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.ShipmentResponse">
-              <point x="0.0" y="-279.0" />
-              <point x="0.0" y="81.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.data.DataLoaderTest" target="edu.iit.cs445.vin.model.Receipt">
-              <point x="69.5" y="-32.0" />
-              <point x="4920.0" y="5808.0" />
-              <point x="0.0" y="103.0" />
+            <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.SelectionType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.response.ShipmentDetailResponse" target="edu.iit.cs445.vin.model.DeliveryStatus">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.model.MonthlySelection" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="0.0" y="125.0" />
-              <point x="2440.0" y="8200.0" />
-              <point x="1400.0" y="8200.0" />
-              <point x="1400.0" y="280.0" />
-              <point x="-54.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Delivery">
-              <point x="-99.5" y="0.0" />
-              <point x="4760.0" y="5000.0" />
-              <point x="40.0" y="81.0" />
+            <edge source="edu.iit.cs445.vin.response.DeliveryResponse" target="edu.iit.cs445.vin.model.Error">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Address">
-              <point x="40.0" y="-70.0" />
-              <point x="5280.0" y="4800.0" />
-              <point x="6320.0" y="4800.0" />
-              <point x="6320.0" y="1840.0" />
-              <point x="-142.0" y="40.0" />
+            <edge source="edu.iit.cs445.vin.model.MonthlySelection" target="edu.iit.cs445.vin.model.Wine">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.AddNoteRequest">
-              <point x="-40.0" y="26.0" />
-              <point x="6880.0" y="3160.0" />
-              <point x="88.5" y="0.0" />
+            <edge source="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse" target="edu.iit.cs445.vin.response.WineResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Subscriber">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.response.WineResponse" target="edu.iit.cs445.vin.model.Note">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.AdminsResponse" target="edu.iit.cs445.vin.response.AdminResponse">
-              <point x="0.0" y="37.0" />
-              <point x="0.0" y="-59.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.model.Address">
-              <point x="139.5" y="0.0" />
-              <point x="7120.0" y="1440.0" />
-              <point x="7120.0" y="1760.0" />
-              <point x="142.0" y="-40.0" />
+            <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.SelectionType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.action.SubscriberAction">
-              <point x="13.33333333333303" y="-26.0" />
-              <point x="6933.333333333333" y="2000.0" />
-              <point x="9720.0" y="2000.0" />
-              <point x="-200.0" y="-279.0" />
+            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.SubscriberActionTest" target="edu.iit.cs445.vin.model.Address">
-              <point x="120.0" y="-334.0" />
-              <point x="5760.0" y="1800.0" />
-              <point x="-142.0" y="0.0" />
+            <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.rest.AdminService" target="edu.iit.cs445.vin.action.AdminAction">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.MonthlySelection">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.rest.SubscriberService" target="edu.iit.cs445.vin.action.SubscriberAction">
-              <point x="0.0" y="235.0" />
-              <point x="8640.0" y="6800.0" />
-              <point x="-463.0" y="-40.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.data.Data" target="edu.iit.cs445.vin.model.Admin">
-              <point x="-40.0" y="125.0" />
-              <point x="4000.0" y="5600.0" />
-              <point x="2920.0" y="5600.0" />
-              <point x="40.0" y="59.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.IdResponse">
-              <point x="0.0" y="59.0" />
-              <point x="7400.0" y="5520.0" />
-              <point x="-63.5" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.model.Error">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.request.MonthlySelectionRequest" target="edu.iit.cs445.vin.model.Wine">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.response.WineResponse">
-              <point x="272.0" y="-13.33333333333394" />
-              <point x="9920.0" y="8386.666666666666" />
-              <point x="0.0" y="81.0" />
-            </edge>
-            <edge source="edu.iit.cs445.vin.action.DeliveryActionTest" target="edu.iit.cs445.vin.model.Subscriber">
-              <point x="0.0" y="-70.0" />
-              <point x="5240.0" y="4240.0" />
-              <point x="243.5" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.response.MonthlySelectionDetailResponse" target="edu.iit.cs445.vin.model.SelectionType">
-              <point x="0.0" y="-125.0" />
-              <point x="11240.0" y="280.0" />
-              <point x="54.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.model.Delivery" target="edu.iit.cs445.vin.model.SelectionType">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.model.Shipment" target="edu.iit.cs445.vin.model.DeliveryStatus">
-              <point x="223.5" y="0.0" />
-              <point x="-54.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.model.Receipt">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.data.DataLoader" target="edu.iit.cs445.vin.data.Data">
-              <point x="-66.0" y="0.0" />
-              <point x="4080.0" y="5000.0" />
-              <point x="40.0" y="-125.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.action.AdminActionTest" target="edu.iit.cs445.vin.action.AdminAction">
-              <point x="-139.5" y="13.333333333333258" />
-              <point x="2160.0" y="1453.3333333333333" />
-              <point x="2160.0" y="8340.0" />
-              <point x="272.0" y="-60.0" />
+            <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.Shipment">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.model.Wine" target="edu.iit.cs445.vin.model.Note">
-              <point x="0.0" y="235.0" />
-              <point x="1720.0" y="8160.0" />
-              <point x="5640.0" y="8160.0" />
-              <point x="0.0" y="81.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.action.SubscriberAction" target="edu.iit.cs445.vin.response.IdResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="edu.iit.cs445.vin.rest.DeliveryService" target="edu.iit.cs445.vin.action.DeliveryAction">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.AdminAction" target="edu.iit.cs445.vin.model.MonthlySelection">
-              <point x="272.0" y="-46.66666666666606" />
-              <point x="2640.0" y="8353.333333333334" />
-              <point x="2640.0" y="5880.0" />
-              <point x="143.5" y="40.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.request.ReceiptRequest">
-              <point x="-10.0" y="26.0" />
-              <point x="6910.0" y="4880.0" />
-              <point x="83.0" y="0.0" />
+            <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.ReceiptsResponse">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="edu.iit.cs445.vin.action.DeliveryAction" target="edu.iit.cs445.vin.response.DeliverToResponse">
-              <point x="0.0" y="-59.0" />
-              <point x="7400.0" y="2240.0" />
-              <point x="-203.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="edu.iit.cs445.vin.cli.CLIMain" target="edu.iit.cs445.vin.action.AdminAction">
-              <point x="0.0" y="26.0" />
-              <point x="6920.0" y="8366.666666666666" />
-              <point x="272.0" y="-33.33333333333394" />
+            <edge source="edu.iit.cs445.vin.response.IdErrorResponse" target="edu.iit.cs445.vin.model.Error">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.057381280110117" x="5770.0" y="4503.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="351.33333333333326" y="209.16666666666657" />
+          <SelectedNodes>
+            <node>edu.iit.cs445.vin.data.SubscriberData</node>
+          </SelectedNodes>
+          <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/DeliveryAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#573#592#0" expanded="false" />
+            <element signature="e#2044#2061#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/DataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64041096">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15582192">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/data/AdminData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11643836">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/DeliveryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectionType.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="65" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/cli/CLIMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1874#1882#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/AdminAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2039#2065#0" expanded="false" />
+            <element signature="e#3754#3768#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/action/SubscriberAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3022#3029#0" expanded="false" />
+            <element signature="e#6164#6182#0" expanded="false" />
+            <element signature="e#10059#10065#0" expanded="false" />
+            <element signature="e#10211#10225#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sylwia-odrzywolska.ser">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/iit/cs445/vin/rest/SubscriberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="68" selection-start-line="53" selection-start-column="68" selection-end-line="53" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vin.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.36">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35207102">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
